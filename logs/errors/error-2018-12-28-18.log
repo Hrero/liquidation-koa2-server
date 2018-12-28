@@ -1,0 +1,48 @@
+[2018-12-28T18:00:06.553] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: POST
+request originalUrl:  /users/login
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"code":"011aoyh62LqSUQ0oj5g62OTkh62aoyhx"}
+response time: 161
+err name: ReferenceError
+err message: data is not defined
+err stack: ReferenceError: data is not defined
+    at router.post (F:\liquidation-koa2-server\routes\users.js:81:29)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+*************** error log end ***************
+
+[2018-12-28T18:00:27.647] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: POST
+request originalUrl:  /users/login
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"code":"081zXmMg2TwVeJ0dFhKg2cVbMg2zXmMD"}
+response time: 184
+err name: ReferenceError
+err message: data is not defined
+err stack: ReferenceError: data is not defined
+    at router.post (F:\liquidation-koa2-server\routes\users.js:82:29)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+*************** error log end ***************
+
+[2018-12-28T18:01:03.605] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: POST
+request originalUrl:  /users/login
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"code":"081a17ya2Wa0qM0LQeAa2Jbpya2a17ym"}
+response time: 179
+err name: ReferenceError
+err message: data is not defined
+err stack: ReferenceError: data is not defined
+    at router.post (F:\liquidation-koa2-server\routes\users.js:82:29)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+*************** error log end ***************
+

@@ -1,0 +1,377 @@
+[2018-12-28T14:00:46.124] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: POST
+request originalUrl:  /users/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 2
+err name: ReferenceError
+err message: params is not defined
+err stack: ReferenceError: params is not defined
+    at router.post (F:\liquidation-koa2-server\routes\users.js:32:31)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at app.use (F:\liquidation-koa2-server\app.js:30:11)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at views (F:\liquidation-koa2-server\node_modules\_koa-views@5.2.1@koa-views\lib\index.js:61:12)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at serve (F:\liquidation-koa2-server\node_modules\_koa-static@3.0.0@koa-static\index.js:47:14)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+*************** error log end ***************
+
+[2018-12-28T14:01:15.062] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: POST
+request originalUrl:  /users/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 2
+err name: ReferenceError
+err message: params is not defined
+err stack: ReferenceError: params is not defined
+    at router.post (F:\liquidation-koa2-server\routes\users.js:33:31)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at app.use (F:\liquidation-koa2-server\app.js:30:11)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at views (F:\liquidation-koa2-server\node_modules\_koa-views@5.2.1@koa-views\lib\index.js:61:12)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at serve (F:\liquidation-koa2-server\node_modules\_koa-static@3.0.0@koa-static\index.js:47:14)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+*************** error log end ***************
+
+[2018-12-28T14:02:13.005] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: POST
+request originalUrl:  /users/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 2
+err name: ReferenceError
+err message: params is not defined
+err stack: ReferenceError: params is not defined
+    at router.post (F:\liquidation-koa2-server\routes\users.js:32:31)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at app.use (F:\liquidation-koa2-server\app.js:30:11)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at views (F:\liquidation-koa2-server\node_modules\_koa-views@5.2.1@koa-views\lib\index.js:61:12)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at serve (F:\liquidation-koa2-server\node_modules\_koa-static@3.0.0@koa-static\index.js:47:14)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+*************** error log end ***************
+
+[2018-12-28T14:03:24.951] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: POST
+request originalUrl:  /users/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 2
+err name: ReferenceError
+err message: params is not defined
+err stack: ReferenceError: params is not defined
+    at router.post (F:\liquidation-koa2-server\routes\users.js:32:31)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at app.use (F:\liquidation-koa2-server\app.js:30:11)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at views (F:\liquidation-koa2-server\node_modules\_koa-views@5.2.1@koa-views\lib\index.js:61:12)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at serve (F:\liquidation-koa2-server\node_modules\_koa-static@3.0.0@koa-static\index.js:47:14)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+*************** error log end ***************
+
+[2018-12-28T14:03:29.976] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: POST
+request originalUrl:  /users/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 0
+err name: ReferenceError
+err message: params is not defined
+err stack: ReferenceError: params is not defined
+    at router.post (F:\liquidation-koa2-server\routes\users.js:32:31)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at app.use (F:\liquidation-koa2-server\app.js:30:11)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at views (F:\liquidation-koa2-server\node_modules\_koa-views@5.2.1@koa-views\lib\index.js:61:12)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at serve (F:\liquidation-koa2-server\node_modules\_koa-static@3.0.0@koa-static\index.js:47:14)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+*************** error log end ***************
+
+[2018-12-28T14:22:56.563] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: POST
+request originalUrl:  /users/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 3
+err name: TypeError
+err message: next is not a function
+err stack: TypeError: next is not a function
+    at F:\liquidation-koa2-server\routes\users.js:26:5
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at app.use (F:\liquidation-koa2-server\app.js:30:11)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at views (F:\liquidation-koa2-server\node_modules\_koa-views@5.2.1@koa-views\lib\index.js:61:12)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at serve (F:\liquidation-koa2-server\node_modules\_koa-static@3.0.0@koa-static\index.js:47:14)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+*************** error log end ***************
+
+[2018-12-28T14:48:48.469] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: POST
+request originalUrl:  /users/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 3
+err name: TypeError
+err message: user.dissList is not a function
+err stack: TypeError: user.dissList is not a function
+    at router.post (F:\liquidation-koa2-server\routes\users.js:26:28)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at app.use (F:\liquidation-koa2-server\app.js:31:11)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at views (F:\liquidation-koa2-server\node_modules\_koa-views@5.2.1@koa-views\lib\index.js:61:12)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at serve (F:\liquidation-koa2-server\node_modules\_koa-static@3.0.0@koa-static\index.js:47:14)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+*************** error log end ***************
+
+[2018-12-28T14:49:41.038] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: POST
+request originalUrl:  /users/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 2
+err name: TypeError
+err message: user.dissList is not a function
+err stack: TypeError: user.dissList is not a function
+    at router.post (F:\liquidation-koa2-server\routes\users.js:26:28)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at app.use (F:\liquidation-koa2-server\app.js:31:11)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at views (F:\liquidation-koa2-server\node_modules\_koa-views@5.2.1@koa-views\lib\index.js:61:12)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at serve (F:\liquidation-koa2-server\node_modules\_koa-static@3.0.0@koa-static\index.js:47:14)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+*************** error log end ***************
+
+[2018-12-28T14:53:14.149] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: POST
+request originalUrl:  /company/addCompany
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"name":"自产自销","number":0,"region":"自行车","isGoOut":0,"hopeGoOut":2,"existence":0,"diss":"[0,1]","talk":"","star":0}
+response time: 1
+err name: ReferenceError
+err message: $sql is not defined
+err stack: ReferenceError: $sql is not defined
+    at router.post (F:\liquidation-koa2-server\routes\company.js:53:15)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at app.use (F:\liquidation-koa2-server\app.js:31:11)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at views (F:\liquidation-koa2-server\node_modules\_koa-views@5.2.1@koa-views\lib\index.js:61:12)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+*************** error log end ***************
+
+[2018-12-28T14:53:39.876] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: POST
+request originalUrl:  /company/addCompany
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"name":"自产自销","number":0,"region":"自行车","isGoOut":0,"hopeGoOut":2,"existence":0,"diss":"[0,1]","talk":"","star":0}
+response time: 0
+err name: ReferenceError
+err message: $sql is not defined
+err stack: ReferenceError: $sql is not defined
+    at router.post (F:\liquidation-koa2-server\routes\company.js:53:15)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at app.use (F:\liquidation-koa2-server\app.js:31:11)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at views (F:\liquidation-koa2-server\node_modules\_koa-views@5.2.1@koa-views\lib\index.js:61:12)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+*************** error log end ***************
+
+[2018-12-28T14:54:01.766] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: POST
+request originalUrl:  /company/addCompany
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"name":"自产自销","number":0,"region":"自行车","isGoOut":0,"hopeGoOut":2,"existence":0,"diss":"[0,1]","talk":"","star":0}
+response time: 8
+err name: TypeError
+err message: Cannot read property 'name' of undefined
+err stack: TypeError: Cannot read property 'name' of undefined
+    at router.post (F:\liquidation-koa2-server\routes\company.js:54:48)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at app.use (F:\liquidation-koa2-server\app.js:31:11)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at views (F:\liquidation-koa2-server\node_modules\_koa-views@5.2.1@koa-views\lib\index.js:61:12)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+*************** error log end ***************
+
+[2018-12-28T14:55:04.480] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: POST
+request originalUrl:  /company/addCompany
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"name":"自产自销","number":0,"region":"自行车","isGoOut":0,"hopeGoOut":2,"existence":0,"diss":"[0,1]","talk":"","star":0}
+response time: 27
+err name: TypeError
+err message: Cannot read property 'name' of undefined
+err stack: TypeError: Cannot read property 'name' of undefined
+    at router.post (F:\liquidation-koa2-server\routes\company.js:54:48)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at app.use (F:\liquidation-koa2-server\app.js:31:11)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at views (F:\liquidation-koa2-server\node_modules\_koa-views@5.2.1@koa-views\lib\index.js:61:12)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+*************** error log end ***************
+
+[2018-12-28T14:56:13.729] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: POST
+request originalUrl:  /company/addCompany
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"name":"zx中兄次之","number":0,"region":"as阿斯达","isGoOut":0,"hopeGoOut":0,"existence":0,"diss":"[0,1]","talk":"","star":0}
+response time: 4
+err name: TypeError
+err message: Cannot read property 'name' of undefined
+err stack: TypeError: Cannot read property 'name' of undefined
+    at router.post (F:\liquidation-koa2-server\routes\company.js:54:48)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at app.use (F:\liquidation-koa2-server\app.js:31:11)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at views (F:\liquidation-koa2-server\node_modules\_koa-views@5.2.1@koa-views\lib\index.js:61:12)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+*************** error log end ***************
+

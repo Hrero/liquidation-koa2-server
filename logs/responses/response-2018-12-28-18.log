@@ -1,0 +1,65 @@
+[2018-12-28T18:00:06.348] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 54
+response status: 200
+response body: 
+{"code":0,"msg":"请求成功","result":true,"data":[{"value":"0","label":"很垃圾","desc":"很垃圾","amount":0},{"value":"1","label":"拖欠工资","desc":"拖欠工资","amount":0},{"value":"2","label":"无偿加班","desc":"无偿加班","amount":0},{"value":"3","label":"领导很SB","desc":"领导很SB","amount":0},{"value":"4","label":"环境很恶劣","desc":"环境很恶劣","amount":0},{"value":"5","label":"没有团建","desc":"没有团建","amount":0},{"value":"6","label":"没有奖金","desc":"没有奖金","amount":0},{"value":"7","label":"没有生日P","desc":"没有生日P","amount":0},{"value":"8","label":"很积极","desc":"很积极","amount":0},{"value":"9","label":"福利很好","desc":"福利很好","amount":0},{"value":"10","label":"领导很nice","desc":"领导很nice","amount":0},{"value":"11","label":"同事相处融洽","desc":"同事相处融洽","amount":0}]}
+*************** response log end ***************
+
+[2018-12-28T18:00:27.562] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 43
+response status: 200
+response body: 
+{"code":0,"msg":"请求成功","result":true,"data":[{"value":"0","label":"很垃圾","desc":"很垃圾","amount":0},{"value":"1","label":"拖欠工资","desc":"拖欠工资","amount":0},{"value":"2","label":"无偿加班","desc":"无偿加班","amount":0},{"value":"3","label":"领导很SB","desc":"领导很SB","amount":0},{"value":"4","label":"环境很恶劣","desc":"环境很恶劣","amount":0},{"value":"5","label":"没有团建","desc":"没有团建","amount":0},{"value":"6","label":"没有奖金","desc":"没有奖金","amount":0},{"value":"7","label":"没有生日P","desc":"没有生日P","amount":0},{"value":"8","label":"很积极","desc":"很积极","amount":0},{"value":"9","label":"福利很好","desc":"福利很好","amount":0},{"value":"10","label":"领导很nice","desc":"领导很nice","amount":0},{"value":"11","label":"同事相处融洽","desc":"同事相处融洽","amount":0}]}
+*************** response log end ***************
+
+[2018-12-28T18:01:03.515] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 29
+response status: 200
+response body: 
+{"code":0,"msg":"请求成功","result":true,"data":[{"value":"0","label":"很垃圾","desc":"很垃圾","amount":0},{"value":"1","label":"拖欠工资","desc":"拖欠工资","amount":0},{"value":"2","label":"无偿加班","desc":"无偿加班","amount":0},{"value":"3","label":"领导很SB","desc":"领导很SB","amount":0},{"value":"4","label":"环境很恶劣","desc":"环境很恶劣","amount":0},{"value":"5","label":"没有团建","desc":"没有团建","amount":0},{"value":"6","label":"没有奖金","desc":"没有奖金","amount":0},{"value":"7","label":"没有生日P","desc":"没有生日P","amount":0},{"value":"8","label":"很积极","desc":"很积极","amount":0},{"value":"9","label":"福利很好","desc":"福利很好","amount":0},{"value":"10","label":"领导很nice","desc":"领导很nice","amount":0},{"value":"11","label":"同事相处融洽","desc":"同事相处融洽","amount":0}]}
+*************** response log end ***************
+
+[2018-12-28T18:01:26.882] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 25
+response status: 200
+response body: 
+{"code":0,"msg":"请求成功","result":true,"data":[{"value":"0","label":"很垃圾","desc":"很垃圾","amount":0},{"value":"1","label":"拖欠工资","desc":"拖欠工资","amount":0},{"value":"2","label":"无偿加班","desc":"无偿加班","amount":0},{"value":"3","label":"领导很SB","desc":"领导很SB","amount":0},{"value":"4","label":"环境很恶劣","desc":"环境很恶劣","amount":0},{"value":"5","label":"没有团建","desc":"没有团建","amount":0},{"value":"6","label":"没有奖金","desc":"没有奖金","amount":0},{"value":"7","label":"没有生日P","desc":"没有生日P","amount":0},{"value":"8","label":"很积极","desc":"很积极","amount":0},{"value":"9","label":"福利很好","desc":"福利很好","amount":0},{"value":"10","label":"领导很nice","desc":"领导很nice","amount":0},{"value":"11","label":"同事相处融洽","desc":"同事相处融洽","amount":0}]}
+*************** response log end ***************
+
+[2018-12-28T18:01:27.021] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /users/login
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"code":"0012CxOS0jaT3Z1aUxPS0zugOS02CxOz"}
+response time: 225
+response status: 200
+response body: 
+{"code":0,"msg":"更新成功","result":true,"data":{"openid":"onioU0SKwZ170Yj6Wv8ZCYb122u4"}}
+*************** response log end ***************
+

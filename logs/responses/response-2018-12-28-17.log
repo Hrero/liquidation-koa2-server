@@ -1,0 +1,533 @@
+[2018-12-28T17:01:41.528] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 34
+response status: 200
+response body: 
+{"code":0,"msg":"请求成功","result":true,"data":[{"value":"0","label":"很垃圾","desc":"很垃圾","amount":0},{"value":"1","label":"拖欠工资","desc":"拖欠工资","amount":0},{"value":"2","label":"无偿加班","desc":"无偿加班","amount":0},{"value":"3","label":"领导很SB","desc":"领导很SB","amount":0},{"value":"4","label":"环境很恶劣","desc":"环境很恶劣","amount":0},{"value":"5","label":"没有团建","desc":"没有团建","amount":0},{"value":"6","label":"没有奖金","desc":"没有奖金","amount":0},{"value":"7","label":"没有生日P","desc":"没有生日P","amount":0},{"value":"8","label":"很积极","desc":"很积极","amount":0},{"value":"9","label":"福利很好","desc":"福利很好","amount":0},{"value":"10","label":"领导很nice","desc":"领导很nice","amount":0},{"value":"11","label":"同事相处融洽","desc":"同事相处融洽","amount":0}]}
+*************** response log end ***************
+
+[2018-12-28T17:01:41.546] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /users/login
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"code":"021tCx3e2TdING0HMw1e2GSC3e2tCx3p"}
+response time: 9
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T17:02:07.315] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /users/login
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"code":"081kVM0000waDG1cJF100RKZ000kVM0o"}
+response time: 11
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T17:02:07.404] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 33
+response status: 200
+response body: 
+{"code":0,"msg":"请求成功","result":true,"data":[{"value":"0","label":"很垃圾","desc":"很垃圾","amount":0},{"value":"1","label":"拖欠工资","desc":"拖欠工资","amount":0},{"value":"2","label":"无偿加班","desc":"无偿加班","amount":0},{"value":"3","label":"领导很SB","desc":"领导很SB","amount":0},{"value":"4","label":"环境很恶劣","desc":"环境很恶劣","amount":0},{"value":"5","label":"没有团建","desc":"没有团建","amount":0},{"value":"6","label":"没有奖金","desc":"没有奖金","amount":0},{"value":"7","label":"没有生日P","desc":"没有生日P","amount":0},{"value":"8","label":"很积极","desc":"很积极","amount":0},{"value":"9","label":"福利很好","desc":"福利很好","amount":0},{"value":"10","label":"领导很nice","desc":"领导很nice","amount":0},{"value":"11","label":"同事相处融洽","desc":"同事相处融洽","amount":0}]}
+*************** response log end ***************
+
+[2018-12-28T17:02:25.276] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /users/login
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"code":"081NlmgB1p5rOc0sAgfB1IwmgB1Nlmgk"}
+response time: 12
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T17:02:25.371] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 36
+response status: 200
+response body: 
+{"code":0,"msg":"请求成功","result":true,"data":[{"value":"0","label":"很垃圾","desc":"很垃圾","amount":0},{"value":"1","label":"拖欠工资","desc":"拖欠工资","amount":0},{"value":"2","label":"无偿加班","desc":"无偿加班","amount":0},{"value":"3","label":"领导很SB","desc":"领导很SB","amount":0},{"value":"4","label":"环境很恶劣","desc":"环境很恶劣","amount":0},{"value":"5","label":"没有团建","desc":"没有团建","amount":0},{"value":"6","label":"没有奖金","desc":"没有奖金","amount":0},{"value":"7","label":"没有生日P","desc":"没有生日P","amount":0},{"value":"8","label":"很积极","desc":"很积极","amount":0},{"value":"9","label":"福利很好","desc":"福利很好","amount":0},{"value":"10","label":"领导很nice","desc":"领导很nice","amount":0},{"value":"11","label":"同事相处融洽","desc":"同事相处融洽","amount":0}]}
+*************** response log end ***************
+
+[2018-12-28T17:10:30.229] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /users/login
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"code":"021tX3vW1wzGkZ0erxvW1152vW1tX3v5"}
+response time: 13
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T17:10:30.284] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 19
+response status: 200
+response body: 
+{"code":0,"msg":"请求成功","result":true,"data":[{"value":"0","label":"很垃圾","desc":"很垃圾","amount":0},{"value":"1","label":"拖欠工资","desc":"拖欠工资","amount":0},{"value":"2","label":"无偿加班","desc":"无偿加班","amount":0},{"value":"3","label":"领导很SB","desc":"领导很SB","amount":0},{"value":"4","label":"环境很恶劣","desc":"环境很恶劣","amount":0},{"value":"5","label":"没有团建","desc":"没有团建","amount":0},{"value":"6","label":"没有奖金","desc":"没有奖金","amount":0},{"value":"7","label":"没有生日P","desc":"没有生日P","amount":0},{"value":"8","label":"很积极","desc":"很积极","amount":0},{"value":"9","label":"福利很好","desc":"福利很好","amount":0},{"value":"10","label":"领导很nice","desc":"领导很nice","amount":0},{"value":"11","label":"同事相处融洽","desc":"同事相处融洽","amount":0}]}
+*************** response log end ***************
+
+[2018-12-28T17:13:16.474] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /users/login
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"code":"021lsS2Y0asYXU1gUK3Y0AI83Y0lsS2B"}
+response time: 26
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T17:13:16.542] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 25
+response status: 200
+response body: 
+{"code":0,"msg":"请求成功","result":true,"data":[{"value":"0","label":"很垃圾","desc":"很垃圾","amount":0},{"value":"1","label":"拖欠工资","desc":"拖欠工资","amount":0},{"value":"2","label":"无偿加班","desc":"无偿加班","amount":0},{"value":"3","label":"领导很SB","desc":"领导很SB","amount":0},{"value":"4","label":"环境很恶劣","desc":"环境很恶劣","amount":0},{"value":"5","label":"没有团建","desc":"没有团建","amount":0},{"value":"6","label":"没有奖金","desc":"没有奖金","amount":0},{"value":"7","label":"没有生日P","desc":"没有生日P","amount":0},{"value":"8","label":"很积极","desc":"很积极","amount":0},{"value":"9","label":"福利很好","desc":"福利很好","amount":0},{"value":"10","label":"领导很nice","desc":"领导很nice","amount":0},{"value":"11","label":"同事相处融洽","desc":"同事相处融洽","amount":0}]}
+*************** response log end ***************
+
+[2018-12-28T17:14:34.301] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 23
+response status: 200
+response body: 
+{"code":0,"msg":"请求成功","result":true,"data":[{"value":"0","label":"很垃圾","desc":"很垃圾","amount":0},{"value":"1","label":"拖欠工资","desc":"拖欠工资","amount":0},{"value":"2","label":"无偿加班","desc":"无偿加班","amount":0},{"value":"3","label":"领导很SB","desc":"领导很SB","amount":0},{"value":"4","label":"环境很恶劣","desc":"环境很恶劣","amount":0},{"value":"5","label":"没有团建","desc":"没有团建","amount":0},{"value":"6","label":"没有奖金","desc":"没有奖金","amount":0},{"value":"7","label":"没有生日P","desc":"没有生日P","amount":0},{"value":"8","label":"很积极","desc":"很积极","amount":0},{"value":"9","label":"福利很好","desc":"福利很好","amount":0},{"value":"10","label":"领导很nice","desc":"领导很nice","amount":0},{"value":"11","label":"同事相处融洽","desc":"同事相处融洽","amount":0}]}
+*************** response log end ***************
+
+[2018-12-28T17:14:34.353] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /users/login
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"code":"001Gkijo1pTvji0QAnio1asFjo1Gkijz"}
+response time: 37
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T17:16:11.287] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /users/login
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"code":"011Vk9P329HcKO0wEYN32RG9P32Vk9P6"}
+response time: 14
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T17:16:11.352] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 21
+response status: 200
+response body: 
+{"code":0,"msg":"请求成功","result":true,"data":[{"value":"0","label":"很垃圾","desc":"很垃圾","amount":0},{"value":"1","label":"拖欠工资","desc":"拖欠工资","amount":0},{"value":"2","label":"无偿加班","desc":"无偿加班","amount":0},{"value":"3","label":"领导很SB","desc":"领导很SB","amount":0},{"value":"4","label":"环境很恶劣","desc":"环境很恶劣","amount":0},{"value":"5","label":"没有团建","desc":"没有团建","amount":0},{"value":"6","label":"没有奖金","desc":"没有奖金","amount":0},{"value":"7","label":"没有生日P","desc":"没有生日P","amount":0},{"value":"8","label":"很积极","desc":"很积极","amount":0},{"value":"9","label":"福利很好","desc":"福利很好","amount":0},{"value":"10","label":"领导很nice","desc":"领导很nice","amount":0},{"value":"11","label":"同事相处融洽","desc":"同事相处融洽","amount":0}]}
+*************** response log end ***************
+
+[2018-12-28T17:16:27.610] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /users/login
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"code":"061dzjCd1xUFTy0M0Mzd1PqnCd1dzjCp"}
+response time: 12
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T17:16:27.690] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 36
+response status: 200
+response body: 
+{"code":0,"msg":"请求成功","result":true,"data":[{"value":"0","label":"很垃圾","desc":"很垃圾","amount":0},{"value":"1","label":"拖欠工资","desc":"拖欠工资","amount":0},{"value":"2","label":"无偿加班","desc":"无偿加班","amount":0},{"value":"3","label":"领导很SB","desc":"领导很SB","amount":0},{"value":"4","label":"环境很恶劣","desc":"环境很恶劣","amount":0},{"value":"5","label":"没有团建","desc":"没有团建","amount":0},{"value":"6","label":"没有奖金","desc":"没有奖金","amount":0},{"value":"7","label":"没有生日P","desc":"没有生日P","amount":0},{"value":"8","label":"很积极","desc":"很积极","amount":0},{"value":"9","label":"福利很好","desc":"福利很好","amount":0},{"value":"10","label":"领导很nice","desc":"领导很nice","amount":0},{"value":"11","label":"同事相处融洽","desc":"同事相处融洽","amount":0}]}
+*************** response log end ***************
+
+[2018-12-28T17:27:45.393] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 25
+response status: 200
+response body: 
+{"code":0,"msg":"请求成功","result":true,"data":[{"value":"0","label":"很垃圾","desc":"很垃圾","amount":0},{"value":"1","label":"拖欠工资","desc":"拖欠工资","amount":0},{"value":"2","label":"无偿加班","desc":"无偿加班","amount":0},{"value":"3","label":"领导很SB","desc":"领导很SB","amount":0},{"value":"4","label":"环境很恶劣","desc":"环境很恶劣","amount":0},{"value":"5","label":"没有团建","desc":"没有团建","amount":0},{"value":"6","label":"没有奖金","desc":"没有奖金","amount":0},{"value":"7","label":"没有生日P","desc":"没有生日P","amount":0},{"value":"8","label":"很积极","desc":"很积极","amount":0},{"value":"9","label":"福利很好","desc":"福利很好","amount":0},{"value":"10","label":"领导很nice","desc":"领导很nice","amount":0},{"value":"11","label":"同事相处融洽","desc":"同事相处融洽","amount":0}]}
+*************** response log end ***************
+
+[2018-12-28T17:27:45.422] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /users/login
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"code":"081RB14W11DARY0o682W1oK14W1RB14D"}
+response time: 10
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T17:29:14.489] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /users/login
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"code":"001DYKxf1qIKJr0BRxvf12trxf1DYKxi"}
+response time: 10
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T17:29:14.559] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 19
+response status: 200
+response body: 
+{"code":0,"msg":"请求成功","result":true,"data":[{"value":"0","label":"很垃圾","desc":"很垃圾","amount":0},{"value":"1","label":"拖欠工资","desc":"拖欠工资","amount":0},{"value":"2","label":"无偿加班","desc":"无偿加班","amount":0},{"value":"3","label":"领导很SB","desc":"领导很SB","amount":0},{"value":"4","label":"环境很恶劣","desc":"环境很恶劣","amount":0},{"value":"5","label":"没有团建","desc":"没有团建","amount":0},{"value":"6","label":"没有奖金","desc":"没有奖金","amount":0},{"value":"7","label":"没有生日P","desc":"没有生日P","amount":0},{"value":"8","label":"很积极","desc":"很积极","amount":0},{"value":"9","label":"福利很好","desc":"福利很好","amount":0},{"value":"10","label":"领导很nice","desc":"领导很nice","amount":0},{"value":"11","label":"同事相处融洽","desc":"同事相处融洽","amount":0}]}
+*************** response log end ***************
+
+[2018-12-28T17:29:42.427] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /users/login
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"code":"021f4TS51cTH0U1B7MT51nY4T51f4TSW"}
+response time: 12
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T17:29:42.518] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 34
+response status: 200
+response body: 
+{"code":0,"msg":"请求成功","result":true,"data":[{"value":"0","label":"很垃圾","desc":"很垃圾","amount":0},{"value":"1","label":"拖欠工资","desc":"拖欠工资","amount":0},{"value":"2","label":"无偿加班","desc":"无偿加班","amount":0},{"value":"3","label":"领导很SB","desc":"领导很SB","amount":0},{"value":"4","label":"环境很恶劣","desc":"环境很恶劣","amount":0},{"value":"5","label":"没有团建","desc":"没有团建","amount":0},{"value":"6","label":"没有奖金","desc":"没有奖金","amount":0},{"value":"7","label":"没有生日P","desc":"没有生日P","amount":0},{"value":"8","label":"很积极","desc":"很积极","amount":0},{"value":"9","label":"福利很好","desc":"福利很好","amount":0},{"value":"10","label":"领导很nice","desc":"领导很nice","amount":0},{"value":"11","label":"同事相处融洽","desc":"同事相处融洽","amount":0}]}
+*************** response log end ***************
+
+[2018-12-28T17:30:20.430] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /users/login
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"code":"071Dnlk70y63yE1FJck70pWqk70Dnlkr"}
+response time: 10
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T17:30:20.486] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 22
+response status: 200
+response body: 
+{"code":0,"msg":"请求成功","result":true,"data":[{"value":"0","label":"很垃圾","desc":"很垃圾","amount":0},{"value":"1","label":"拖欠工资","desc":"拖欠工资","amount":0},{"value":"2","label":"无偿加班","desc":"无偿加班","amount":0},{"value":"3","label":"领导很SB","desc":"领导很SB","amount":0},{"value":"4","label":"环境很恶劣","desc":"环境很恶劣","amount":0},{"value":"5","label":"没有团建","desc":"没有团建","amount":0},{"value":"6","label":"没有奖金","desc":"没有奖金","amount":0},{"value":"7","label":"没有生日P","desc":"没有生日P","amount":0},{"value":"8","label":"很积极","desc":"很积极","amount":0},{"value":"9","label":"福利很好","desc":"福利很好","amount":0},{"value":"10","label":"领导很nice","desc":"领导很nice","amount":0},{"value":"11","label":"同事相处融洽","desc":"同事相处融洽","amount":0}]}
+*************** response log end ***************
+
+[2018-12-28T17:31:16.125] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /users/login
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"code":"061JkEbq0Walon1309cq0ZRybq0JkEbe"}
+response time: 14
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T17:31:16.187] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 20
+response status: 200
+response body: 
+{"code":0,"msg":"请求成功","result":true,"data":[{"value":"0","label":"很垃圾","desc":"很垃圾","amount":0},{"value":"1","label":"拖欠工资","desc":"拖欠工资","amount":0},{"value":"2","label":"无偿加班","desc":"无偿加班","amount":0},{"value":"3","label":"领导很SB","desc":"领导很SB","amount":0},{"value":"4","label":"环境很恶劣","desc":"环境很恶劣","amount":0},{"value":"5","label":"没有团建","desc":"没有团建","amount":0},{"value":"6","label":"没有奖金","desc":"没有奖金","amount":0},{"value":"7","label":"没有生日P","desc":"没有生日P","amount":0},{"value":"8","label":"很积极","desc":"很积极","amount":0},{"value":"9","label":"福利很好","desc":"福利很好","amount":0},{"value":"10","label":"领导很nice","desc":"领导很nice","amount":0},{"value":"11","label":"同事相处融洽","desc":"同事相处融洽","amount":0}]}
+*************** response log end ***************
+
+[2018-12-28T17:42:59.666] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 27
+response status: 200
+response body: 
+{"code":0,"msg":"请求成功","result":true,"data":[{"value":"0","label":"很垃圾","desc":"很垃圾","amount":0},{"value":"1","label":"拖欠工资","desc":"拖欠工资","amount":0},{"value":"2","label":"无偿加班","desc":"无偿加班","amount":0},{"value":"3","label":"领导很SB","desc":"领导很SB","amount":0},{"value":"4","label":"环境很恶劣","desc":"环境很恶劣","amount":0},{"value":"5","label":"没有团建","desc":"没有团建","amount":0},{"value":"6","label":"没有奖金","desc":"没有奖金","amount":0},{"value":"7","label":"没有生日P","desc":"没有生日P","amount":0},{"value":"8","label":"很积极","desc":"很积极","amount":0},{"value":"9","label":"福利很好","desc":"福利很好","amount":0},{"value":"10","label":"领导很nice","desc":"领导很nice","amount":0},{"value":"11","label":"同事相处融洽","desc":"同事相处融洽","amount":0}]}
+*************** response log end ***************
+
+[2018-12-28T17:43:06.375] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 3
+response status: 200
+response body: 
+{"code":0,"msg":"请求成功","result":true,"data":[{"value":"0","label":"很垃圾","desc":"很垃圾","amount":0},{"value":"1","label":"拖欠工资","desc":"拖欠工资","amount":0},{"value":"2","label":"无偿加班","desc":"无偿加班","amount":0},{"value":"3","label":"领导很SB","desc":"领导很SB","amount":0},{"value":"4","label":"环境很恶劣","desc":"环境很恶劣","amount":0},{"value":"5","label":"没有团建","desc":"没有团建","amount":0},{"value":"6","label":"没有奖金","desc":"没有奖金","amount":0},{"value":"7","label":"没有生日P","desc":"没有生日P","amount":0},{"value":"8","label":"很积极","desc":"很积极","amount":0},{"value":"9","label":"福利很好","desc":"福利很好","amount":0},{"value":"10","label":"领导很nice","desc":"领导很nice","amount":0},{"value":"11","label":"同事相处融洽","desc":"同事相处融洽","amount":0}]}
+*************** response log end ***************
+
+[2018-12-28T17:43:35.999] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 22
+response status: 200
+response body: 
+{"code":0,"msg":"请求成功","result":true,"data":[{"value":"0","label":"很垃圾","desc":"很垃圾","amount":0},{"value":"1","label":"拖欠工资","desc":"拖欠工资","amount":0},{"value":"2","label":"无偿加班","desc":"无偿加班","amount":0},{"value":"3","label":"领导很SB","desc":"领导很SB","amount":0},{"value":"4","label":"环境很恶劣","desc":"环境很恶劣","amount":0},{"value":"5","label":"没有团建","desc":"没有团建","amount":0},{"value":"6","label":"没有奖金","desc":"没有奖金","amount":0},{"value":"7","label":"没有生日P","desc":"没有生日P","amount":0},{"value":"8","label":"很积极","desc":"很积极","amount":0},{"value":"9","label":"福利很好","desc":"福利很好","amount":0},{"value":"10","label":"领导很nice","desc":"领导很nice","amount":0},{"value":"11","label":"同事相处融洽","desc":"同事相处融洽","amount":0}]}
+*************** response log end ***************
+
+[2018-12-28T17:44:06.604] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 20
+response status: 200
+response body: 
+{"code":0,"msg":"请求成功","result":true,"data":[{"value":"0","label":"很垃圾","desc":"很垃圾","amount":0},{"value":"1","label":"拖欠工资","desc":"拖欠工资","amount":0},{"value":"2","label":"无偿加班","desc":"无偿加班","amount":0},{"value":"3","label":"领导很SB","desc":"领导很SB","amount":0},{"value":"4","label":"环境很恶劣","desc":"环境很恶劣","amount":0},{"value":"5","label":"没有团建","desc":"没有团建","amount":0},{"value":"6","label":"没有奖金","desc":"没有奖金","amount":0},{"value":"7","label":"没有生日P","desc":"没有生日P","amount":0},{"value":"8","label":"很积极","desc":"很积极","amount":0},{"value":"9","label":"福利很好","desc":"福利很好","amount":0},{"value":"10","label":"领导很nice","desc":"领导很nice","amount":0},{"value":"11","label":"同事相处融洽","desc":"同事相处融洽","amount":0}]}
+*************** response log end ***************
+
+[2018-12-28T17:44:28.792] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 31
+response status: 200
+response body: 
+{"code":0,"msg":"请求成功","result":true,"data":[{"value":"0","label":"很垃圾","desc":"很垃圾","amount":0},{"value":"1","label":"拖欠工资","desc":"拖欠工资","amount":0},{"value":"2","label":"无偿加班","desc":"无偿加班","amount":0},{"value":"3","label":"领导很SB","desc":"领导很SB","amount":0},{"value":"4","label":"环境很恶劣","desc":"环境很恶劣","amount":0},{"value":"5","label":"没有团建","desc":"没有团建","amount":0},{"value":"6","label":"没有奖金","desc":"没有奖金","amount":0},{"value":"7","label":"没有生日P","desc":"没有生日P","amount":0},{"value":"8","label":"很积极","desc":"很积极","amount":0},{"value":"9","label":"福利很好","desc":"福利很好","amount":0},{"value":"10","label":"领导很nice","desc":"领导很nice","amount":0},{"value":"11","label":"同事相处融洽","desc":"同事相处融洽","amount":0}]}
+*************** response log end ***************
+
+[2018-12-28T17:44:52.255] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 20
+response status: 200
+response body: 
+{"code":0,"msg":"请求成功","result":true,"data":[{"value":"0","label":"很垃圾","desc":"很垃圾","amount":0},{"value":"1","label":"拖欠工资","desc":"拖欠工资","amount":0},{"value":"2","label":"无偿加班","desc":"无偿加班","amount":0},{"value":"3","label":"领导很SB","desc":"领导很SB","amount":0},{"value":"4","label":"环境很恶劣","desc":"环境很恶劣","amount":0},{"value":"5","label":"没有团建","desc":"没有团建","amount":0},{"value":"6","label":"没有奖金","desc":"没有奖金","amount":0},{"value":"7","label":"没有生日P","desc":"没有生日P","amount":0},{"value":"8","label":"很积极","desc":"很积极","amount":0},{"value":"9","label":"福利很好","desc":"福利很好","amount":0},{"value":"10","label":"领导很nice","desc":"领导很nice","amount":0},{"value":"11","label":"同事相处融洽","desc":"同事相处融洽","amount":0}]}
+*************** response log end ***************
+
+[2018-12-28T17:45:25.923] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /users/login
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"code":"021P75mw0Xpe4b1YOkiw090Mlw0P75mX"}
+response time: 11
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T17:45:25.983] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 26
+response status: 200
+response body: 
+{"code":0,"msg":"请求成功","result":true,"data":[{"value":"0","label":"很垃圾","desc":"很垃圾","amount":0},{"value":"1","label":"拖欠工资","desc":"拖欠工资","amount":0},{"value":"2","label":"无偿加班","desc":"无偿加班","amount":0},{"value":"3","label":"领导很SB","desc":"领导很SB","amount":0},{"value":"4","label":"环境很恶劣","desc":"环境很恶劣","amount":0},{"value":"5","label":"没有团建","desc":"没有团建","amount":0},{"value":"6","label":"没有奖金","desc":"没有奖金","amount":0},{"value":"7","label":"没有生日P","desc":"没有生日P","amount":0},{"value":"8","label":"很积极","desc":"很积极","amount":0},{"value":"9","label":"福利很好","desc":"福利很好","amount":0},{"value":"10","label":"领导很nice","desc":"领导很nice","amount":0},{"value":"11","label":"同事相处融洽","desc":"同事相处融洽","amount":0}]}
+*************** response log end ***************
+
+[2018-12-28T17:49:06.451] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /users/login
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"code":"021Q8fiH0Fgtxe2fdskH0kjiiH0Q8fiU"}
+response time: 10
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T17:49:06.498] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 70
+response status: 200
+response body: 
+{"code":0,"msg":"请求成功","result":true,"data":[{"value":"0","label":"很垃圾","desc":"很垃圾","amount":0},{"value":"1","label":"拖欠工资","desc":"拖欠工资","amount":0},{"value":"2","label":"无偿加班","desc":"无偿加班","amount":0},{"value":"3","label":"领导很SB","desc":"领导很SB","amount":0},{"value":"4","label":"环境很恶劣","desc":"环境很恶劣","amount":0},{"value":"5","label":"没有团建","desc":"没有团建","amount":0},{"value":"6","label":"没有奖金","desc":"没有奖金","amount":0},{"value":"7","label":"没有生日P","desc":"没有生日P","amount":0},{"value":"8","label":"很积极","desc":"很积极","amount":0},{"value":"9","label":"福利很好","desc":"福利很好","amount":0},{"value":"10","label":"领导很nice","desc":"领导很nice","amount":0},{"value":"11","label":"同事相处融洽","desc":"同事相处融洽","amount":0}]}
+*************** response log end ***************
+
+[2018-12-28T17:54:11.703] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 23
+response status: 200
+response body: 
+{"code":0,"msg":"请求成功","result":true,"data":[{"value":"0","label":"很垃圾","desc":"很垃圾","amount":0},{"value":"1","label":"拖欠工资","desc":"拖欠工资","amount":0},{"value":"2","label":"无偿加班","desc":"无偿加班","amount":0},{"value":"3","label":"领导很SB","desc":"领导很SB","amount":0},{"value":"4","label":"环境很恶劣","desc":"环境很恶劣","amount":0},{"value":"5","label":"没有团建","desc":"没有团建","amount":0},{"value":"6","label":"没有奖金","desc":"没有奖金","amount":0},{"value":"7","label":"没有生日P","desc":"没有生日P","amount":0},{"value":"8","label":"很积极","desc":"很积极","amount":0},{"value":"9","label":"福利很好","desc":"福利很好","amount":0},{"value":"10","label":"领导很nice","desc":"领导很nice","amount":0},{"value":"11","label":"同事相处融洽","desc":"同事相处融洽","amount":0}]}
+*************** response log end ***************
+
+[2018-12-28T17:55:19.747] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 27
+response status: 200
+response body: 
+{"code":0,"msg":"请求成功","result":true,"data":[{"value":"0","label":"很垃圾","desc":"很垃圾","amount":0},{"value":"1","label":"拖欠工资","desc":"拖欠工资","amount":0},{"value":"2","label":"无偿加班","desc":"无偿加班","amount":0},{"value":"3","label":"领导很SB","desc":"领导很SB","amount":0},{"value":"4","label":"环境很恶劣","desc":"环境很恶劣","amount":0},{"value":"5","label":"没有团建","desc":"没有团建","amount":0},{"value":"6","label":"没有奖金","desc":"没有奖金","amount":0},{"value":"7","label":"没有生日P","desc":"没有生日P","amount":0},{"value":"8","label":"很积极","desc":"很积极","amount":0},{"value":"9","label":"福利很好","desc":"福利很好","amount":0},{"value":"10","label":"领导很nice","desc":"领导很nice","amount":0},{"value":"11","label":"同事相处融洽","desc":"同事相处融洽","amount":0}]}
+*************** response log end ***************
+
+[2018-12-28T17:57:48.455] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 47
+response status: 200
+response body: 
+{"code":0,"msg":"请求成功","result":true,"data":[{"value":"0","label":"很垃圾","desc":"很垃圾","amount":0},{"value":"1","label":"拖欠工资","desc":"拖欠工资","amount":0},{"value":"2","label":"无偿加班","desc":"无偿加班","amount":0},{"value":"3","label":"领导很SB","desc":"领导很SB","amount":0},{"value":"4","label":"环境很恶劣","desc":"环境很恶劣","amount":0},{"value":"5","label":"没有团建","desc":"没有团建","amount":0},{"value":"6","label":"没有奖金","desc":"没有奖金","amount":0},{"value":"7","label":"没有生日P","desc":"没有生日P","amount":0},{"value":"8","label":"很积极","desc":"很积极","amount":0},{"value":"9","label":"福利很好","desc":"福利很好","amount":0},{"value":"10","label":"领导很nice","desc":"领导很nice","amount":0},{"value":"11","label":"同事相处融洽","desc":"同事相处融洽","amount":0}]}
+*************** response log end ***************
+
+[2018-12-28T17:58:22.266] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 57
+response status: 200
+response body: 
+{"code":0,"msg":"请求成功","result":true,"data":[{"value":"0","label":"很垃圾","desc":"很垃圾","amount":0},{"value":"1","label":"拖欠工资","desc":"拖欠工资","amount":0},{"value":"2","label":"无偿加班","desc":"无偿加班","amount":0},{"value":"3","label":"领导很SB","desc":"领导很SB","amount":0},{"value":"4","label":"环境很恶劣","desc":"环境很恶劣","amount":0},{"value":"5","label":"没有团建","desc":"没有团建","amount":0},{"value":"6","label":"没有奖金","desc":"没有奖金","amount":0},{"value":"7","label":"没有生日P","desc":"没有生日P","amount":0},{"value":"8","label":"很积极","desc":"很积极","amount":0},{"value":"9","label":"福利很好","desc":"福利很好","amount":0},{"value":"10","label":"领导很nice","desc":"领导很nice","amount":0},{"value":"11","label":"同事相处融洽","desc":"同事相处融洽","amount":0}]}
+*************** response log end ***************
+
+[2018-12-28T17:59:41.101] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 32
+response status: 200
+response body: 
+{"code":0,"msg":"请求成功","result":true,"data":[{"value":"0","label":"很垃圾","desc":"很垃圾","amount":0},{"value":"1","label":"拖欠工资","desc":"拖欠工资","amount":0},{"value":"2","label":"无偿加班","desc":"无偿加班","amount":0},{"value":"3","label":"领导很SB","desc":"领导很SB","amount":0},{"value":"4","label":"环境很恶劣","desc":"环境很恶劣","amount":0},{"value":"5","label":"没有团建","desc":"没有团建","amount":0},{"value":"6","label":"没有奖金","desc":"没有奖金","amount":0},{"value":"7","label":"没有生日P","desc":"没有生日P","amount":0},{"value":"8","label":"很积极","desc":"很积极","amount":0},{"value":"9","label":"福利很好","desc":"福利很好","amount":0},{"value":"10","label":"领导很nice","desc":"领导很nice","amount":0},{"value":"11","label":"同事相处融洽","desc":"同事相处融洽","amount":0}]}
+*************** response log end ***************
+

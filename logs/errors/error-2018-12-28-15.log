@@ -1,0 +1,29 @@
+[2018-12-28T15:02:05.386] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: POST
+request originalUrl:  /company/addCompany
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"name":"zx中兄次之","number":0,"region":"as阿斯达","isGoOut":0,"hopeGoOut":0,"existence":0,"diss":"[0,1]","talk":"","star":0}
+response time: 5
+err name: TypeError
+err message: Cannot read property 'name' of undefined
+err stack: TypeError: Cannot read property 'name' of undefined
+    at router.post (F:\liquidation-koa2-server\routes\company.js:54:48)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at app.use (F:\liquidation-koa2-server\app.js:31:11)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at views (F:\liquidation-koa2-server\node_modules\_koa-views@5.2.1@koa-views\lib\index.js:61:12)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+*************** error log end ***************
+

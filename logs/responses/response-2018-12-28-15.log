@@ -1,0 +1,572 @@
+[2018-12-28T15:02:29.962] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addCompany
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"name":"zx中兄次之","number":0,"region":"as阿斯达","isGoOut":0,"hopeGoOut":0,"existence":0,"diss":"[0,1]","talk":"","star":0}
+response time: 22
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T15:02:49.891] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addCompany
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"name":"zx中兄次之","number":0,"region":"as阿斯达","isGoOut":0,"hopeGoOut":0,"existence":0,"diss":"[0,1]","talk":"","star":0}
+response time: 21
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T15:09:36.645] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addCompany
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"name":"zx中兄次之","number":0,"region":"as阿斯达","isGoOut":0,"hopeGoOut":0,"existence":0,"diss":"[0,1]","talk":"","star":0}
+response time: 30
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T15:10:50.348] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addCompany
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"name":"zx中兄次之","number":0,"region":"as阿斯达","isGoOut":0,"hopeGoOut":0,"existence":0,"diss":"[0,1]","talk":"","star":0}
+response time: 50
+response status: 200
+response body: 
+{"code":0,"msg":"我要被你点爆了","result":false,"data":""}
+*************** response log end ***************
+
+[2018-12-28T15:11:12.555] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addCompany
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"name":"zx中兄次之","number":0,"region":"as阿斯达","isGoOut":0,"hopeGoOut":0,"existence":0,"diss":"[0,1]","talk":"","star":0}
+response time: 4
+response status: 200
+response body: 
+{"code":0,"msg":"我要被你点爆了","result":false,"data":""}
+*************** response log end ***************
+
+[2018-12-28T15:11:25.087] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addCompany
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"name":"zx中兄次之","number":0,"region":"as阿斯达","isGoOut":0,"hopeGoOut":0,"existence":0,"diss":"[0,1]","talk":"","star":0}
+response time: 2
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T15:12:21.667] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addCompany
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"name":"zx中兄次之","number":0,"region":"as阿斯达","isGoOut":0,"hopeGoOut":0,"existence":0,"diss":"[0,1]","talk":"","star":0}
+response time: 26
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T15:12:25.336] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addCompany
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"name":"zx中兄次之","number":0,"region":"as阿斯达","isGoOut":0,"hopeGoOut":0,"existence":0,"diss":"[0,1]","talk":"","star":0}
+response time: 12
+response status: 200
+response body: 
+{"code":1,"msg":"我要被你点爆了","result":true,"data":{"fieldCount":0,"affectedRows":1,"insertId":32,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}}
+*************** response log end ***************
+
+[2018-12-28T15:12:45.820] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addCompany
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"name":"旭","number":0,"region":"as阿斯达","isGoOut":0,"hopeGoOut":0,"existence":0,"diss":"[0,1]","talk":"","star":0}
+response time: 4
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T15:12:54.669] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addCompany
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"name":"旭","number":0,"region":"as阿斯达","isGoOut":0,"hopeGoOut":0,"existence":0,"diss":"[0,1]","talk":"as阿斯达","star":0}
+response time: 2
+response status: 200
+response body: 
+{"code":1,"msg":"我要被你点爆了","result":true,"data":{"fieldCount":0,"affectedRows":1,"insertId":33,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}}
+*************** response log end ***************
+
+[2018-12-28T15:13:57.289] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addCompany
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"name":"自行车","number":0,"region":"as阿斯达","isGoOut":0,"hopeGoOut":0,"existence":0,"diss":"[0,1]","talk":"as阿斯达","star":0}
+response time: 48
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T15:14:11.253] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addCompany
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"name":"自行车","number":0,"region":"as阿斯达","isGoOut":0,"hopeGoOut":0,"existence":0,"diss":"[0,1]","talk":"as阿斯达","star":0}
+response time: 4
+response status: 200
+response body: 
+{"code":1,"msg":"我要被你点爆了","result":true,"data":""}
+*************** response log end ***************
+
+[2018-12-28T15:15:44.941] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addCompany
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"name":"iuyqw就有轻微","number":0,"region":"as阿斯达","isGoOut":0,"hopeGoOut":0,"existence":0,"diss":"[0,1]","talk":"as阿斯达","star":0}
+response time: 52
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T15:19:25.192] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addCompany
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"name":"iuyqw就有轻微","number":0,"region":"as阿斯达","isGoOut":0,"hopeGoOut":0,"existence":0,"diss":"[0,1]","talk":"as阿斯达","star":0}
+response time: 45
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T15:21:00.003] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addCompany
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"name":"iuyqw就有轻微","number":0,"region":"as阿斯达","isGoOut":0,"hopeGoOut":0,"existence":0,"diss":"[0,1]","talk":"as阿斯达","star":0}
+response time: 25
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T15:21:59.046] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addCompany
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"name":"iuyqw就有轻微","number":0,"region":"as阿斯达","isGoOut":0,"hopeGoOut":0,"existence":0,"diss":"[0,1]","talk":"as阿斯达","star":0}
+response time: 26
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T15:29:17.056] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addCompany
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"name":"iuyqw就有轻微","number":0,"region":"as阿斯达","isGoOut":0,"hopeGoOut":0,"existence":0,"diss":"[0,1]","talk":"as阿斯达","star":0}
+response time: 23
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T15:29:30.242] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addCompany
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"name":"iuyqw就有轻微","number":0,"region":"as阿斯达","isGoOut":0,"hopeGoOut":0,"existence":0,"diss":"[0,1]","talk":"as阿斯达","star":0}
+response time: 3
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T15:30:02.257] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addCompany
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"name":"iuyqw就有轻微","number":0,"region":"as阿斯达","isGoOut":0,"hopeGoOut":0,"existence":0,"diss":"[0,1]","talk":"as阿斯达","star":0}
+response time: 19
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T15:30:21.342] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addCompany
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"name":"iuyqw就有轻微","number":0,"region":"as阿斯达","isGoOut":0,"hopeGoOut":0,"existence":0,"diss":"[0,1]","talk":"as阿斯达","star":0}
+response time: 9
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T15:30:28.431] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addCompany
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"name":"iuyqw就有轻微","number":0,"region":"as阿斯达","isGoOut":0,"hopeGoOut":0,"existence":0,"diss":"[0,1]","talk":"as阿斯达","star":0}
+response time: 2
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T15:31:16.823] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addCompany
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"name":"iuyqw就有轻微","number":0,"region":"as阿斯达","isGoOut":0,"hopeGoOut":0,"existence":0,"diss":"[0,1]","talk":"as阿斯达","star":0}
+response time: 33
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T15:32:31.154] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addCompany
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"name":"iuyqw就有轻微","number":0,"region":"as阿斯达","isGoOut":0,"hopeGoOut":0,"existence":0,"diss":"[0,1]","talk":"as阿斯达","star":0}
+response time: 36
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T15:32:35.087] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addCompany
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"name":"iuyqw就有轻微","number":0,"region":"as阿斯达","isGoOut":0,"hopeGoOut":0,"existence":0,"diss":"[0,1]","talk":"as阿斯达","star":0}
+response time: 5
+response status: 200
+response body: 
+{"code":0,"msg":"我要被你点爆了","result":false,"data":""}
+*************** response log end ***************
+
+[2018-12-28T15:33:49.266] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addCompany
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"name":"iuyqw就有轻微","number":0,"region":"as阿斯达","isGoOut":0,"hopeGoOut":0,"existence":0,"diss":"[0,1]","talk":"as阿斯达","star":0}
+response time: 21
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T15:34:51.702] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addCompany
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"name":"iuyqw就有轻微","number":0,"region":"as阿斯达","isGoOut":0,"hopeGoOut":0,"existence":0,"diss":"[0,1]","talk":"as阿斯达","star":0}
+response time: 24
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T15:40:15.096] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addCompany
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"name":"iuyqw就有轻微","number":0,"region":"as阿斯达","isGoOut":0,"hopeGoOut":0,"existence":0,"diss":"[0,1]","talk":"as阿斯达","star":0}
+response time: 27
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T15:40:21.559] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addCompany
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"name":"iuyqw就有轻微","number":0,"region":"as阿斯达","isGoOut":0,"hopeGoOut":0,"existence":0,"diss":"[0,1]","talk":"as阿斯达","star":0}
+response time: 5
+response status: 200
+response body: 
+{"code":0,"msg":"我要被你点爆了","result":false,"data":""}
+*************** response log end ***************
+
+[2018-12-28T15:41:10.156] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addCompany
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"name":"iuyqw就有轻微","number":0,"region":"as阿斯达","isGoOut":0,"hopeGoOut":0,"existence":0,"diss":"[0,1]","talk":"as阿斯达","star":0}
+response time: 27
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T15:41:13.283] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addCompany
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"name":"iuyqw就有轻微","number":0,"region":"as阿斯达","isGoOut":0,"hopeGoOut":0,"existence":0,"diss":"[0,1]","talk":"as阿斯达","star":0}
+response time: 11
+response status: 200
+response body: 
+{"code":0,"msg":"我要被你点爆了","result":false,"data":""}
+*************** response log end ***************
+
+[2018-12-28T15:47:04.290] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addCompany
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"name":"iuyqw就有轻微","number":0,"region":"as阿斯达","isGoOut":0,"hopeGoOut":0,"existence":0,"diss":"[0,1]","talk":"as阿斯达","star":0}
+response time: 24
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T15:48:17.133] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addCompany
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"name":"iuyqw就有轻微","number":0,"region":"as阿斯达","isGoOut":0,"hopeGoOut":0,"existence":0,"diss":"[0,1]","talk":"as阿斯达","star":0}
+response time: 24
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T15:49:29.905] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addCompany
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"name":"iuyqw就有轻微","number":0,"region":"as阿斯达","isGoOut":0,"hopeGoOut":0,"existence":0,"diss":"[0,1]","talk":"as阿斯达","star":0}
+response time: 20
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T15:50:51.932] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addCompany
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"name":"iuyqw就有轻微","number":0,"region":"as阿斯达","isGoOut":0,"hopeGoOut":0,"existence":0,"diss":"[0,1]","talk":"as阿斯达","star":0}
+response time: 22
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T15:51:28.603] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addCompany
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"name":"iuyqw就有轻微","number":0,"region":"as阿斯达","isGoOut":0,"hopeGoOut":0,"existence":0,"diss":"[0,1]","talk":"as阿斯达","star":0}
+response time: 34
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T15:52:14.934] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addCompany
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"name":"iuyqw就有轻微","number":0,"region":"as阿斯达","isGoOut":0,"hopeGoOut":0,"existence":0,"diss":"[0,1]","talk":"as阿斯达","star":0}
+response time: 31
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T15:55:40.945] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addCompany
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"name":"iuyqw就有轻微","number":0,"region":"as阿斯达","isGoOut":0,"hopeGoOut":0,"existence":0,"diss":"[0,1]","talk":"as阿斯达","star":0}
+response time: 19
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T15:56:09.191] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addCompany
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"name":"iuyqw就有轻微","number":0,"region":"as阿斯达","isGoOut":0,"hopeGoOut":0,"existence":0,"diss":"[0,1]","talk":"as阿斯达","star":0}
+response time: 20
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T15:59:08.433] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addCompany
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"name":"iuyqw就有轻微","number":0,"region":"as阿斯达","isGoOut":0,"hopeGoOut":0,"existence":0,"diss":"[0,1]","talk":"as阿斯达","star":0}
+response time: 6
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T15:59:20.579] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addCompany
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"name":"iuyqw就有轻微","number":0,"region":"as阿斯达","isGoOut":0,"hopeGoOut":0,"existence":0,"diss":"[0,1]","talk":"as阿斯达","star":0}
+response time: 1
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T15:59:21.545] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addCompany
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"name":"iuyqw就有轻微","number":0,"region":"as阿斯达","isGoOut":0,"hopeGoOut":0,"existence":0,"diss":"[0,1]","talk":"as阿斯达","star":0}
+response time: 1
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T15:59:22.127] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addCompany
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"name":"iuyqw就有轻微","number":0,"region":"as阿斯达","isGoOut":0,"hopeGoOut":0,"existence":0,"diss":"[0,1]","talk":"as阿斯达","star":0}
+response time: 1
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T15:59:22.625] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addCompany
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"name":"iuyqw就有轻微","number":0,"region":"as阿斯达","isGoOut":0,"hopeGoOut":0,"existence":0,"diss":"[0,1]","talk":"as阿斯达","star":0}
+response time: 1
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T15:59:22.801] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addCompany
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"name":"iuyqw就有轻微","number":0,"region":"as阿斯达","isGoOut":0,"hopeGoOut":0,"existence":0,"diss":"[0,1]","talk":"as阿斯达","star":0}
+response time: 0
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+

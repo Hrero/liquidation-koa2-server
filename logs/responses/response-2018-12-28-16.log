@@ -1,0 +1,702 @@
+[2018-12-28T16:00:03.003] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addCompany
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"name":"iuyqw就有轻微","number":0,"region":"as阿斯达","isGoOut":0,"hopeGoOut":0,"existence":0,"diss":"[0,1]","talk":"as阿斯达","star":0}
+response time: 6
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T16:00:08.786] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addCompany
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"name":"iuyqw就有轻微","number":0,"region":"as阿斯达","isGoOut":0,"hopeGoOut":0,"existence":0,"diss":"[0,1]","talk":"as阿斯达","star":0}
+response time: 1
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T16:00:40.411] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addCompany
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"name":"iuyqw就有轻微","number":0,"region":"as阿斯达","isGoOut":0,"hopeGoOut":0,"existence":0,"diss":"[0,1]","talk":"as阿斯达","star":0}
+response time: 81
+response status: 200
+response body: 
+{"code":0,"msg":"请求失败","result":false,"data":""}
+*************** response log end ***************
+
+[2018-12-28T16:05:34.503] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addCompany
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"name":"iuyqw就有轻微","number":0,"region":"as阿斯达","isGoOut":0,"hopeGoOut":0,"existence":0,"diss":"[0,1]","talk":"as阿斯达","star":0}
+response time: 10
+response status: 200
+response body: 
+{"code":0,"msg":"我要被你点爆了","result":false,"data":""}
+*************** response log end ***************
+
+[2018-12-28T16:06:23.761] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addCompany
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"name":"iuyqw就有轻微","number":0,"region":"as阿斯达","isGoOut":0,"hopeGoOut":0,"existence":0,"diss":"[0,1]","talk":"as阿斯达","star":0}
+response time: 219
+response status: 200
+response body: 
+{"code":0,"msg":"请求失败","result":false,"data":""}
+*************** response log end ***************
+
+[2018-12-28T16:06:52.515] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addCompany
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"name":"iuyqw就有轻微","number":0,"region":"as阿斯达","isGoOut":0,"hopeGoOut":0,"existence":0,"diss":"[0,1]","talk":"as阿斯达","star":0}
+response time: 39
+response status: 200
+response body: 
+{"code":0,"msg":"我要被你点爆了","result":false,"data":""}
+*************** response log end ***************
+
+[2018-12-28T16:07:00.045] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addCompany
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"name":"iuyqw就有轻微","number":0,"region":"as阿斯达","isGoOut":0,"hopeGoOut":0,"existence":0,"diss":"[0,1]","talk":"as阿斯达","star":0}
+response time: 40
+response status: 200
+response body: 
+{"code":1,"msg":"收到了,老板","result":true,"data":""}
+*************** response log end ***************
+
+[2018-12-28T16:39:15.680] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/getRankingList
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 27
+response status: 200
+response body: 
+{"code":0,"msg":"请求成功","result":true,"data":[{"id":27,"name":"womende我们的","number":0,"region":"阿萨达","isGoOut":"4","hopeGoOut":"2","existence":"0","diss":"[0,2]","talk":"在小城之春","star":39},{"id":29,"name":"撒旦法","number":0,"region":"zxcz中兄次之","isGoOut":"4","hopeGoOut":"2","existence":"0","diss":"[0]","talk":"","star":2},{"id":28,"name":"dasd大声道","number":0,"region":"asdasdas阿斯达十大","isGoOut":"4","hopeGoOut":"2","existence":"0","diss":"[0]","talk":"","star":1},{"id":64,"name":"iuyqw就有轻微","number":0,"region":"as阿斯达","isGoOut":"0","hopeGoOut":"0","existence":"0","diss":"[0,1]","talk":"as阿斯达","star":0}]}
+*************** response log end ***************
+
+[2018-12-28T16:39:15.731] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/getRankingList
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 59
+response status: 200
+response body: 
+{"code":0,"msg":"请求成功","result":true,"data":[{"id":27,"name":"womende我们的","number":0,"region":"阿萨达","isGoOut":"4","hopeGoOut":"2","existence":"0","diss":"[0,2]","talk":"在小城之春","star":39},{"id":29,"name":"撒旦法","number":0,"region":"zxcz中兄次之","isGoOut":"4","hopeGoOut":"2","existence":"0","diss":"[0]","talk":"","star":2},{"id":28,"name":"dasd大声道","number":0,"region":"asdasdas阿斯达十大","isGoOut":"4","hopeGoOut":"2","existence":"0","diss":"[0]","talk":"","star":1},{"id":64,"name":"iuyqw就有轻微","number":0,"region":"as阿斯达","isGoOut":"0","hopeGoOut":"0","existence":"0","diss":"[0,1]","talk":"as阿斯达","star":0}]}
+*************** response log end ***************
+
+[2018-12-28T16:39:20.632] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addCompany
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"name":"执行","number":0,"region":"as阿斯达","isGoOut":0,"hopeGoOut":0,"existence":0,"diss":"[0,1]","talk":"as阿斯达","star":0}
+response time: 59
+response status: 200
+response body: 
+{"code":1,"msg":"收到了,老板","result":true,"data":""}
+*************** response log end ***************
+
+[2018-12-28T16:39:22.462] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/getRankingList
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 2
+response status: 200
+response body: 
+{"code":1,"msg":"请求成功","result":true,"data":[{"id":27,"name":"womende我们的","number":0,"region":"阿萨达","isGoOut":"4","hopeGoOut":"2","existence":"0","diss":"[0,2]","talk":"在小城之春","star":39},{"id":29,"name":"撒旦法","number":0,"region":"zxcz中兄次之","isGoOut":"4","hopeGoOut":"2","existence":"0","diss":"[0]","talk":"","star":2},{"id":28,"name":"dasd大声道","number":0,"region":"asdasdas阿斯达十大","isGoOut":"4","hopeGoOut":"2","existence":"0","diss":"[0]","talk":"","star":1},{"id":64,"name":"iuyqw就有轻微","number":0,"region":"as阿斯达","isGoOut":"0","hopeGoOut":"0","existence":"0","diss":"[0,1]","talk":"as阿斯达","star":0},{"id":65,"name":"执行","number":0,"region":"as阿斯达","isGoOut":"0","hopeGoOut":"0","existence":"0","diss":"[0,1]","talk":"as阿斯达","star":0}]}
+*************** response log end ***************
+
+[2018-12-28T16:39:23.875] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/addStar
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"id":65,"star":1,"openid":"onioU0SKwZ170Yj6Wv8ZCYb122u4"}
+response time: 0
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T16:40:21.055] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/addStar
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"id":65,"star":2,"openid":"onioU0SKwZ170Yj6Wv8ZCYb122u4"}
+response time: 1
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T16:41:21.539] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/addStar
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"id":65,"star":3,"openid":"onioU0SKwZ170Yj6Wv8ZCYb122u4"}
+response time: 1
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T16:41:39.283] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/addStar
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"id":65,"star":4,"openid":"onioU0SKwZ170Yj6Wv8ZCYb122u4"}
+response time: 1
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T16:41:54.234] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/login
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"code":"011UMxBn1J6Qoq0n80Cn1TizBn1UMxB7"}
+response time: 0
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T16:41:54.409] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 31
+response status: 200
+response body: 
+{"code":0,"msg":"请求成功","result":true,"data":[{"value":"0","label":"很垃圾","desc":"很垃圾","amount":0},{"value":"1","label":"拖欠工资","desc":"拖欠工资","amount":0},{"value":"2","label":"无偿加班","desc":"无偿加班","amount":0},{"value":"3","label":"领导很SB","desc":"领导很SB","amount":0},{"value":"4","label":"环境很恶劣","desc":"环境很恶劣","amount":0},{"value":"5","label":"没有团建","desc":"没有团建","amount":0},{"value":"6","label":"没有奖金","desc":"没有奖金","amount":0},{"value":"7","label":"没有生日P","desc":"没有生日P","amount":0},{"value":"8","label":"很积极","desc":"很积极","amount":0},{"value":"9","label":"福利很好","desc":"福利很好","amount":0},{"value":"10","label":"领导很nice","desc":"领导很nice","amount":0},{"value":"11","label":"同事相处融洽","desc":"同事相处融洽","amount":0}]}
+*************** response log end ***************
+
+[2018-12-28T16:42:01.574] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/getRankingList
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 4
+response status: 200
+response body: 
+{"code":0,"msg":"请求成功","result":true,"data":[{"id":27,"name":"womende我们的","number":0,"region":"阿萨达","isGoOut":"4","hopeGoOut":"2","existence":"0","diss":"[0,2]","talk":"在小城之春","star":39},{"id":29,"name":"撒旦法","number":0,"region":"zxcz中兄次之","isGoOut":"4","hopeGoOut":"2","existence":"0","diss":"[0]","talk":"","star":2},{"id":28,"name":"dasd大声道","number":0,"region":"asdasdas阿斯达十大","isGoOut":"4","hopeGoOut":"2","existence":"0","diss":"[0]","talk":"","star":1},{"id":64,"name":"iuyqw就有轻微","number":0,"region":"as阿斯达","isGoOut":"0","hopeGoOut":"0","existence":"0","diss":"[0,1]","talk":"as阿斯达","star":0},{"id":65,"name":"执行","number":0,"region":"as阿斯达","isGoOut":"0","hopeGoOut":"0","existence":"0","diss":"[0,1]","talk":"as阿斯达","star":0}]}
+*************** response log end ***************
+
+[2018-12-28T16:42:01.614] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/getRankingList
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 3
+response status: 200
+response body: 
+{"code":0,"msg":"请求成功","result":true,"data":[{"id":27,"name":"womende我们的","number":0,"region":"阿萨达","isGoOut":"4","hopeGoOut":"2","existence":"0","diss":"[0,2]","talk":"在小城之春","star":39},{"id":29,"name":"撒旦法","number":0,"region":"zxcz中兄次之","isGoOut":"4","hopeGoOut":"2","existence":"0","diss":"[0]","talk":"","star":2},{"id":28,"name":"dasd大声道","number":0,"region":"asdasdas阿斯达十大","isGoOut":"4","hopeGoOut":"2","existence":"0","diss":"[0]","talk":"","star":1},{"id":64,"name":"iuyqw就有轻微","number":0,"region":"as阿斯达","isGoOut":"0","hopeGoOut":"0","existence":"0","diss":"[0,1]","talk":"as阿斯达","star":0},{"id":65,"name":"执行","number":0,"region":"as阿斯达","isGoOut":"0","hopeGoOut":"0","existence":"0","diss":"[0,1]","talk":"as阿斯达","star":0}]}
+*************** response log end ***************
+
+[2018-12-28T16:42:02.413] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addStar
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"id":65,"star":1,"openid":"onioU0SKwZ170Yj6Wv8ZCYb122u4"}
+response time: 2
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T16:42:43.899] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addStar
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"id":65,"star":2,"openid":"onioU0SKwZ170Yj6Wv8ZCYb122u4"}
+response time: 7
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T16:43:40.300] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addStar
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"id":65,"star":3,"openid":"onioU0SKwZ170Yj6Wv8ZCYb122u4"}
+response time: 8
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T16:44:00.459] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addStar
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"id":65,"star":4,"openid":"onioU0SKwZ170Yj6Wv8ZCYb122u4"}
+response time: 8
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T16:44:50.462] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addStar
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"id":65,"star":5,"openid":"onioU0SKwZ170Yj6Wv8ZCYb122u4"}
+response time: 6
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T16:45:16.343] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addStar
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"id":65,"star":6,"openid":"onioU0SKwZ170Yj6Wv8ZCYb122u4"}
+response time: 7
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T16:47:04.917] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addStar
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"id":65,"star":7,"openid":"onioU0SKwZ170Yj6Wv8ZCYb122u4"}
+response time: 25
+response status: 200
+response body: 
+{"code":1,"msg":"您已经支持过一次了哦！","result":true,"data":""}
+*************** response log end ***************
+
+[2018-12-28T16:47:04.938] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/getRankingList
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 4
+response status: 200
+response body: 
+{"code":1,"msg":"请求成功","result":true,"data":[{"id":27,"name":"womende我们的","number":0,"region":"阿萨达","isGoOut":"4","hopeGoOut":"2","existence":"0","diss":"[0,2]","talk":"在小城之春","star":39},{"id":65,"name":"执行","number":0,"region":"as阿斯达","isGoOut":"0","hopeGoOut":"0","existence":"0","diss":"[0,1]","talk":"as阿斯达","star":5},{"id":29,"name":"撒旦法","number":0,"region":"zxcz中兄次之","isGoOut":"4","hopeGoOut":"2","existence":"0","diss":"[0]","talk":"","star":2},{"id":28,"name":"dasd大声道","number":0,"region":"asdasdas阿斯达十大","isGoOut":"4","hopeGoOut":"2","existence":"0","diss":"[0]","talk":"","star":1},{"id":64,"name":"iuyqw就有轻微","number":0,"region":"as阿斯达","isGoOut":"0","hopeGoOut":"0","existence":"0","diss":"[0,1]","talk":"as阿斯达","star":0}]}
+*************** response log end ***************
+
+[2018-12-28T16:47:07.896] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addStar
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"id":64,"star":1,"openid":"onioU0SKwZ170Yj6Wv8ZCYb122u4"}
+response time: 92
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T16:47:09.446] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addStar
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"id":64,"star":2,"openid":"onioU0SKwZ170Yj6Wv8ZCYb122u4"}
+response time: 2
+response status: 200
+response body: 
+{"code":1,"msg":"您已经支持过一次了哦！","result":true,"data":""}
+*************** response log end ***************
+
+[2018-12-28T16:47:09.456] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/getRankingList
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 1
+response status: 200
+response body: 
+{"code":1,"msg":"请求成功","result":true,"data":[{"id":27,"name":"womende我们的","number":0,"region":"阿萨达","isGoOut":"4","hopeGoOut":"2","existence":"0","diss":"[0,2]","talk":"在小城之春","star":39},{"id":65,"name":"执行","number":0,"region":"as阿斯达","isGoOut":"0","hopeGoOut":"0","existence":"0","diss":"[0,1]","talk":"as阿斯达","star":5},{"id":29,"name":"撒旦法","number":0,"region":"zxcz中兄次之","isGoOut":"4","hopeGoOut":"2","existence":"0","diss":"[0]","talk":"","star":2},{"id":28,"name":"dasd大声道","number":0,"region":"asdasdas阿斯达十大","isGoOut":"4","hopeGoOut":"2","existence":"0","diss":"[0]","talk":"","star":1},{"id":64,"name":"iuyqw就有轻微","number":0,"region":"as阿斯达","isGoOut":"0","hopeGoOut":"0","existence":"0","diss":"[0,1]","talk":"as阿斯达","star":1}]}
+*************** response log end ***************
+
+[2018-12-28T16:47:11.102] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addStar
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"id":28,"star":2,"openid":"onioU0SKwZ170Yj6Wv8ZCYb122u4"}
+response time: 1
+response status: 200
+response body: 
+{"code":1,"msg":"您已经支持过一次了哦！","result":true,"data":""}
+*************** response log end ***************
+
+[2018-12-28T16:47:11.113] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/getRankingList
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 2
+response status: 200
+response body: 
+{"code":1,"msg":"请求成功","result":true,"data":[{"id":27,"name":"womende我们的","number":0,"region":"阿萨达","isGoOut":"4","hopeGoOut":"2","existence":"0","diss":"[0,2]","talk":"在小城之春","star":39},{"id":65,"name":"执行","number":0,"region":"as阿斯达","isGoOut":"0","hopeGoOut":"0","existence":"0","diss":"[0,1]","talk":"as阿斯达","star":5},{"id":29,"name":"撒旦法","number":0,"region":"zxcz中兄次之","isGoOut":"4","hopeGoOut":"2","existence":"0","diss":"[0]","talk":"","star":2},{"id":28,"name":"dasd大声道","number":0,"region":"asdasdas阿斯达十大","isGoOut":"4","hopeGoOut":"2","existence":"0","diss":"[0]","talk":"","star":1},{"id":64,"name":"iuyqw就有轻微","number":0,"region":"as阿斯达","isGoOut":"0","hopeGoOut":"0","existence":"0","diss":"[0,1]","talk":"as阿斯达","star":1}]}
+*************** response log end ***************
+
+[2018-12-28T16:47:12.352] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addStar
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"id":64,"star":2,"openid":"onioU0SKwZ170Yj6Wv8ZCYb122u4"}
+response time: 2
+response status: 200
+response body: 
+{"code":1,"msg":"您已经支持过一次了哦！","result":true,"data":""}
+*************** response log end ***************
+
+[2018-12-28T16:47:12.363] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/getRankingList
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 2
+response status: 200
+response body: 
+{"code":1,"msg":"请求成功","result":true,"data":[{"id":27,"name":"womende我们的","number":0,"region":"阿萨达","isGoOut":"4","hopeGoOut":"2","existence":"0","diss":"[0,2]","talk":"在小城之春","star":39},{"id":65,"name":"执行","number":0,"region":"as阿斯达","isGoOut":"0","hopeGoOut":"0","existence":"0","diss":"[0,1]","talk":"as阿斯达","star":5},{"id":29,"name":"撒旦法","number":0,"region":"zxcz中兄次之","isGoOut":"4","hopeGoOut":"2","existence":"0","diss":"[0]","talk":"","star":2},{"id":28,"name":"dasd大声道","number":0,"region":"asdasdas阿斯达十大","isGoOut":"4","hopeGoOut":"2","existence":"0","diss":"[0]","talk":"","star":1},{"id":64,"name":"iuyqw就有轻微","number":0,"region":"as阿斯达","isGoOut":"0","hopeGoOut":"0","existence":"0","diss":"[0,1]","talk":"as阿斯达","star":1}]}
+*************** response log end ***************
+
+[2018-12-28T16:47:13.729] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addStar
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"id":29,"star":3,"openid":"onioU0SKwZ170Yj6Wv8ZCYb122u4"}
+response time: 2
+response status: 200
+response body: 
+{"code":1,"msg":"您已经支持过一次了哦！","result":true,"data":""}
+*************** response log end ***************
+
+[2018-12-28T16:47:13.741] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/getRankingList
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 2
+response status: 200
+response body: 
+{"code":1,"msg":"请求成功","result":true,"data":[{"id":27,"name":"womende我们的","number":0,"region":"阿萨达","isGoOut":"4","hopeGoOut":"2","existence":"0","diss":"[0,2]","talk":"在小城之春","star":39},{"id":65,"name":"执行","number":0,"region":"as阿斯达","isGoOut":"0","hopeGoOut":"0","existence":"0","diss":"[0,1]","talk":"as阿斯达","star":5},{"id":29,"name":"撒旦法","number":0,"region":"zxcz中兄次之","isGoOut":"4","hopeGoOut":"2","existence":"0","diss":"[0]","talk":"","star":2},{"id":28,"name":"dasd大声道","number":0,"region":"asdasdas阿斯达十大","isGoOut":"4","hopeGoOut":"2","existence":"0","diss":"[0]","talk":"","star":1},{"id":64,"name":"iuyqw就有轻微","number":0,"region":"as阿斯达","isGoOut":"0","hopeGoOut":"0","existence":"0","diss":"[0,1]","talk":"as阿斯达","star":1}]}
+*************** response log end ***************
+
+[2018-12-28T16:47:14.325] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addStar
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"id":65,"star":6,"openid":"onioU0SKwZ170Yj6Wv8ZCYb122u4"}
+response time: 2
+response status: 200
+response body: 
+{"code":1,"msg":"您已经支持过一次了哦！","result":true,"data":""}
+*************** response log end ***************
+
+[2018-12-28T16:47:14.335] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/getRankingList
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 2
+response status: 200
+response body: 
+{"code":1,"msg":"请求成功","result":true,"data":[{"id":27,"name":"womende我们的","number":0,"region":"阿萨达","isGoOut":"4","hopeGoOut":"2","existence":"0","diss":"[0,2]","talk":"在小城之春","star":39},{"id":65,"name":"执行","number":0,"region":"as阿斯达","isGoOut":"0","hopeGoOut":"0","existence":"0","diss":"[0,1]","talk":"as阿斯达","star":5},{"id":29,"name":"撒旦法","number":0,"region":"zxcz中兄次之","isGoOut":"4","hopeGoOut":"2","existence":"0","diss":"[0]","talk":"","star":2},{"id":28,"name":"dasd大声道","number":0,"region":"asdasdas阿斯达十大","isGoOut":"4","hopeGoOut":"2","existence":"0","diss":"[0]","talk":"","star":1},{"id":64,"name":"iuyqw就有轻微","number":0,"region":"as阿斯达","isGoOut":"0","hopeGoOut":"0","existence":"0","diss":"[0,1]","talk":"as阿斯达","star":1}]}
+*************** response log end ***************
+
+[2018-12-28T16:47:14.824] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addStar
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"id":27,"star":40,"openid":"onioU0SKwZ170Yj6Wv8ZCYb122u4"}
+response time: 1
+response status: 200
+response body: 
+{"code":1,"msg":"您已经支持过一次了哦！","result":true,"data":""}
+*************** response log end ***************
+
+[2018-12-28T16:47:14.835] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/getRankingList
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 2
+response status: 200
+response body: 
+{"code":1,"msg":"请求成功","result":true,"data":[{"id":27,"name":"womende我们的","number":0,"region":"阿萨达","isGoOut":"4","hopeGoOut":"2","existence":"0","diss":"[0,2]","talk":"在小城之春","star":39},{"id":65,"name":"执行","number":0,"region":"as阿斯达","isGoOut":"0","hopeGoOut":"0","existence":"0","diss":"[0,1]","talk":"as阿斯达","star":5},{"id":29,"name":"撒旦法","number":0,"region":"zxcz中兄次之","isGoOut":"4","hopeGoOut":"2","existence":"0","diss":"[0]","talk":"","star":2},{"id":28,"name":"dasd大声道","number":0,"region":"asdasdas阿斯达十大","isGoOut":"4","hopeGoOut":"2","existence":"0","diss":"[0]","talk":"","star":1},{"id":64,"name":"iuyqw就有轻微","number":0,"region":"as阿斯达","isGoOut":"0","hopeGoOut":"0","existence":"0","diss":"[0,1]","talk":"as阿斯达","star":1}]}
+*************** response log end ***************
+
+[2018-12-28T16:47:15.431] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addStar
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"id":29,"star":4,"openid":"onioU0SKwZ170Yj6Wv8ZCYb122u4"}
+response time: 2
+response status: 200
+response body: 
+{"code":1,"msg":"您已经支持过一次了哦！","result":true,"data":""}
+*************** response log end ***************
+
+[2018-12-28T16:47:15.444] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/getRankingList
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 2
+response status: 200
+response body: 
+{"code":1,"msg":"请求成功","result":true,"data":[{"id":27,"name":"womende我们的","number":0,"region":"阿萨达","isGoOut":"4","hopeGoOut":"2","existence":"0","diss":"[0,2]","talk":"在小城之春","star":39},{"id":65,"name":"执行","number":0,"region":"as阿斯达","isGoOut":"0","hopeGoOut":"0","existence":"0","diss":"[0,1]","talk":"as阿斯达","star":5},{"id":29,"name":"撒旦法","number":0,"region":"zxcz中兄次之","isGoOut":"4","hopeGoOut":"2","existence":"0","diss":"[0]","talk":"","star":2},{"id":28,"name":"dasd大声道","number":0,"region":"asdasdas阿斯达十大","isGoOut":"4","hopeGoOut":"2","existence":"0","diss":"[0]","talk":"","star":1},{"id":64,"name":"iuyqw就有轻微","number":0,"region":"as阿斯达","isGoOut":"0","hopeGoOut":"0","existence":"0","diss":"[0,1]","talk":"as阿斯达","star":1}]}
+*************** response log end ***************
+
+[2018-12-28T16:47:15.778] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addStar
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"id":28,"star":3,"openid":"onioU0SKwZ170Yj6Wv8ZCYb122u4"}
+response time: 2
+response status: 200
+response body: 
+{"code":1,"msg":"您已经支持过一次了哦！","result":true,"data":""}
+*************** response log end ***************
+
+[2018-12-28T16:47:15.790] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/getRankingList
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 2
+response status: 200
+response body: 
+{"code":1,"msg":"请求成功","result":true,"data":[{"id":27,"name":"womende我们的","number":0,"region":"阿萨达","isGoOut":"4","hopeGoOut":"2","existence":"0","diss":"[0,2]","talk":"在小城之春","star":39},{"id":65,"name":"执行","number":0,"region":"as阿斯达","isGoOut":"0","hopeGoOut":"0","existence":"0","diss":"[0,1]","talk":"as阿斯达","star":5},{"id":29,"name":"撒旦法","number":0,"region":"zxcz中兄次之","isGoOut":"4","hopeGoOut":"2","existence":"0","diss":"[0]","talk":"","star":2},{"id":28,"name":"dasd大声道","number":0,"region":"asdasdas阿斯达十大","isGoOut":"4","hopeGoOut":"2","existence":"0","diss":"[0]","talk":"","star":1},{"id":64,"name":"iuyqw就有轻微","number":0,"region":"as阿斯达","isGoOut":"0","hopeGoOut":"0","existence":"0","diss":"[0,1]","talk":"as阿斯达","star":1}]}
+*************** response log end ***************
+
+[2018-12-28T16:47:16.172] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/addStar
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"id":64,"star":3,"openid":"onioU0SKwZ170Yj6Wv8ZCYb122u4"}
+response time: 1
+response status: 200
+response body: 
+{"code":1,"msg":"您已经支持过一次了哦！","result":true,"data":""}
+*************** response log end ***************
+
+[2018-12-28T16:47:16.183] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/getRankingList
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 1
+response status: 200
+response body: 
+{"code":1,"msg":"请求成功","result":true,"data":[{"id":27,"name":"womende我们的","number":0,"region":"阿萨达","isGoOut":"4","hopeGoOut":"2","existence":"0","diss":"[0,2]","talk":"在小城之春","star":39},{"id":65,"name":"执行","number":0,"region":"as阿斯达","isGoOut":"0","hopeGoOut":"0","existence":"0","diss":"[0,1]","talk":"as阿斯达","star":5},{"id":29,"name":"撒旦法","number":0,"region":"zxcz中兄次之","isGoOut":"4","hopeGoOut":"2","existence":"0","diss":"[0]","talk":"","star":2},{"id":28,"name":"dasd大声道","number":0,"region":"asdasdas阿斯达十大","isGoOut":"4","hopeGoOut":"2","existence":"0","diss":"[0]","talk":"","star":1},{"id":64,"name":"iuyqw就有轻微","number":0,"region":"as阿斯达","isGoOut":"0","hopeGoOut":"0","existence":"0","diss":"[0,1]","talk":"as阿斯达","star":1}]}
+*************** response log end ***************
+
+[2018-12-28T16:49:34.376] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/login
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"code":"021FbKaf162gbA0BKtcf19iOaf1FbKan"}
+response time: 0
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T16:49:34.397] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 3
+response status: 200
+response body: 
+{"code":1,"msg":"请求成功","result":true,"data":[{"value":"0","label":"很垃圾","desc":"很垃圾","amount":0},{"value":"1","label":"拖欠工资","desc":"拖欠工资","amount":0},{"value":"2","label":"无偿加班","desc":"无偿加班","amount":0},{"value":"3","label":"领导很SB","desc":"领导很SB","amount":0},{"value":"4","label":"环境很恶劣","desc":"环境很恶劣","amount":0},{"value":"5","label":"没有团建","desc":"没有团建","amount":0},{"value":"6","label":"没有奖金","desc":"没有奖金","amount":0},{"value":"7","label":"没有生日P","desc":"没有生日P","amount":0},{"value":"8","label":"很积极","desc":"很积极","amount":0},{"value":"9","label":"福利很好","desc":"福利很好","amount":0},{"value":"10","label":"领导很nice","desc":"领导很nice","amount":0},{"value":"11","label":"同事相处融洽","desc":"同事相处融洽","amount":0}]}
+*************** response log end ***************
+
+[2018-12-28T16:49:56.516] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/login
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"code":"071pt4Gd1yLPDy0iveId1P8cGd1pt4Gb"}
+response time: 0
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T16:49:56.624] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 2
+response status: 200
+response body: 
+{"code":1,"msg":"请求成功","result":true,"data":[{"value":"0","label":"很垃圾","desc":"很垃圾","amount":0},{"value":"1","label":"拖欠工资","desc":"拖欠工资","amount":0},{"value":"2","label":"无偿加班","desc":"无偿加班","amount":0},{"value":"3","label":"领导很SB","desc":"领导很SB","amount":0},{"value":"4","label":"环境很恶劣","desc":"环境很恶劣","amount":0},{"value":"5","label":"没有团建","desc":"没有团建","amount":0},{"value":"6","label":"没有奖金","desc":"没有奖金","amount":0},{"value":"7","label":"没有生日P","desc":"没有生日P","amount":0},{"value":"8","label":"很积极","desc":"很积极","amount":0},{"value":"9","label":"福利很好","desc":"福利很好","amount":0},{"value":"10","label":"领导很nice","desc":"领导很nice","amount":0},{"value":"11","label":"同事相处融洽","desc":"同事相处融洽","amount":0}]}
+*************** response log end ***************
+
+[2018-12-28T16:51:24.870] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /users/login
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"code":"061nX1pM1878n71xu1mM1bQmpM1nX1ph"}
+response time: 0
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T16:51:24.976] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 2
+response status: 200
+response body: 
+{"code":1,"msg":"请求成功","result":true,"data":[{"value":"0","label":"很垃圾","desc":"很垃圾","amount":0},{"value":"1","label":"拖欠工资","desc":"拖欠工资","amount":0},{"value":"2","label":"无偿加班","desc":"无偿加班","amount":0},{"value":"3","label":"领导很SB","desc":"领导很SB","amount":0},{"value":"4","label":"环境很恶劣","desc":"环境很恶劣","amount":0},{"value":"5","label":"没有团建","desc":"没有团建","amount":0},{"value":"6","label":"没有奖金","desc":"没有奖金","amount":0},{"value":"7","label":"没有生日P","desc":"没有生日P","amount":0},{"value":"8","label":"很积极","desc":"很积极","amount":0},{"value":"9","label":"福利很好","desc":"福利很好","amount":0},{"value":"10","label":"领导很nice","desc":"领导很nice","amount":0},{"value":"11","label":"同事相处融洽","desc":"同事相处融洽","amount":0}]}
+*************** response log end ***************
+
+[2018-12-28T16:51:27.441] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /users/login
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"code":"061xfss81lwLsN1fA5r81s9Hs81xfss1"}
+response time: 0
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T16:51:27.549] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 2
+response status: 200
+response body: 
+{"code":1,"msg":"请求成功","result":true,"data":[{"value":"0","label":"很垃圾","desc":"很垃圾","amount":0},{"value":"1","label":"拖欠工资","desc":"拖欠工资","amount":0},{"value":"2","label":"无偿加班","desc":"无偿加班","amount":0},{"value":"3","label":"领导很SB","desc":"领导很SB","amount":0},{"value":"4","label":"环境很恶劣","desc":"环境很恶劣","amount":0},{"value":"5","label":"没有团建","desc":"没有团建","amount":0},{"value":"6","label":"没有奖金","desc":"没有奖金","amount":0},{"value":"7","label":"没有生日P","desc":"没有生日P","amount":0},{"value":"8","label":"很积极","desc":"很积极","amount":0},{"value":"9","label":"福利很好","desc":"福利很好","amount":0},{"value":"10","label":"领导很nice","desc":"领导很nice","amount":0},{"value":"11","label":"同事相处融洽","desc":"同事相处融洽","amount":0}]}
+*************** response log end ***************
+

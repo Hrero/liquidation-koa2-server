@@ -1,0 +1,254 @@
+[2018-12-28T17:42:59.680] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: POST
+request originalUrl:  /users/login
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"code":"061kwKn02cFYnU07quk02Hp3o02kwKnx"}
+response time: 1
+err name: TypeError
+err message: undefined is not a promise
+err stack: TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at requestAsyncFn (F:\liquidation-koa2-server\routes\users.js:39:18)
+    at router.post (F:\liquidation-koa2-server\routes\users.js:49:7)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at app.use (F:\liquidation-koa2-server\app.js:31:11)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at views (F:\liquidation-koa2-server\node_modules\_koa-views@5.2.1@koa-views\lib\index.js:61:12)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+*************** error log end ***************
+
+[2018-12-28T17:43:06.282] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: POST
+request originalUrl:  /users/login
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"code":"061Ffd672a2pJR0ND15721Gj672Ffd6S"}
+response time: 0
+err name: TypeError
+err message: undefined is not a promise
+err stack: TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at requestAsyncFn (F:\liquidation-koa2-server\routes\users.js:39:18)
+    at router.post (F:\liquidation-koa2-server\routes\users.js:49:7)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at app.use (F:\liquidation-koa2-server\app.js:31:11)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at views (F:\liquidation-koa2-server\node_modules\_koa-views@5.2.1@koa-views\lib\index.js:61:12)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+*************** error log end ***************
+
+[2018-12-28T17:43:35.932] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: POST
+request originalUrl:  /users/login
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"code":"021XXeAU0gBcQ02SLgAU0PRpAU0XXeAL"}
+response time: 4
+err name: TypeError
+err message: undefined is not a promise
+err stack: TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at requestAsyncFn (F:\liquidation-koa2-server\routes\users.js:39:18)
+    at router.post (F:\liquidation-koa2-server\routes\users.js:50:7)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at app.use (F:\liquidation-koa2-server\app.js:31:11)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at views (F:\liquidation-koa2-server\node_modules\_koa-views@5.2.1@koa-views\lib\index.js:61:12)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+*************** error log end ***************
+
+[2018-12-28T17:44:06.535] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: POST
+request originalUrl:  /users/login
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"code":"0113YeGY1stiGS0nnbEY1PM4GY13YeGg"}
+response time: 3
+err name: TypeError
+err message: undefined is not a promise
+err stack: TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at requestAsyncFn (F:\liquidation-koa2-server\routes\users.js:39:18)
+    at router.post (F:\liquidation-koa2-server\routes\users.js:50:7)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at app.use (F:\liquidation-koa2-server\app.js:31:11)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at views (F:\liquidation-koa2-server\node_modules\_koa-views@5.2.1@koa-views\lib\index.js:61:12)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+*************** error log end ***************
+
+[2018-12-28T17:44:28.863] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: POST
+request originalUrl:  /users/login
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"code":"001hnwIB1sQaAd0nBrLB1iAzIB1hnwIK"}
+response time: 4
+err name: TypeError
+err message: undefined is not a promise
+err stack: TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at requestAsyncFn (F:\liquidation-koa2-server\routes\users.js:40:18)
+    at router.post (F:\liquidation-koa2-server\routes\users.js:50:7)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at app.use (F:\liquidation-koa2-server\app.js:31:11)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at views (F:\liquidation-koa2-server\node_modules\_koa-views@5.2.1@koa-views\lib\index.js:61:12)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+*************** error log end ***************
+
+[2018-12-28T17:44:52.176] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: POST
+request originalUrl:  /users/login
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"code":"001iAa2e1ZWJZy08ie1e15N32e1iAa2g"}
+response time: 2
+err name: TypeError
+err message: undefined is not a promise
+err stack: TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at requestAsyncFn (F:\liquidation-koa2-server\routes\users.js:39:18)
+    at router.post (F:\liquidation-koa2-server\routes\users.js:50:7)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at app.use (F:\liquidation-koa2-server\app.js:31:11)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at views (F:\liquidation-koa2-server\node_modules\_koa-views@5.2.1@koa-views\lib\index.js:61:12)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+*************** error log end ***************
+
+[2018-12-28T17:54:11.839] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: POST
+request originalUrl:  /users/login
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"code":"011uY9zW00wxO22BYCBW0LzZyW0uY9zr"}
+response time: 203
+err name: ReferenceError
+err message: data is not defined
+err stack: ReferenceError: data is not defined
+    at router.post (F:\liquidation-koa2-server\routes\users.js:84:25)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+*************** error log end ***************
+
+[2018-12-28T17:55:19.861] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: POST
+request originalUrl:  /users/login
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"code":"021gMWg30SeaCJ1PTYi30XI2h30gMWgH"}
+response time: 199
+err name: ReferenceError
+err message: data is not defined
+err stack: ReferenceError: data is not defined
+    at router.post (F:\liquidation-koa2-server\routes\users.js:85:29)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+*************** error log end ***************
+
+[2018-12-28T17:57:48.545] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: POST
+request originalUrl:  /users/login
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"code":"001ekFpw1rvE2h028Inw1iOopw1ekFpd"}
+response time: 181
+err name: ReferenceError
+err message: data is not defined
+err stack: ReferenceError: data is not defined
+    at router.post (F:\liquidation-koa2-server\routes\users.js:81:29)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+*************** error log end ***************
+
+[2018-12-28T17:58:22.320] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: POST
+request originalUrl:  /users/login
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"code":"001G0clF03QyAc2ftzlF0SsilF0G0clU"}
+response time: 179
+err name: ReferenceError
+err message: data is not defined
+err stack: ReferenceError: data is not defined
+    at router.post (F:\liquidation-koa2-server\routes\users.js:81:29)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+*************** error log end ***************
+
+[2018-12-28T17:59:41.218] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: POST
+request originalUrl:  /users/login
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"code":"011RtnYJ1v61G30jgzYJ19heYJ1RtnY-"}
+response time: 207
+err name: ReferenceError
+err message: data is not defined
+err stack: ReferenceError: data is not defined
+    at router.post (F:\liquidation-koa2-server\routes\users.js:82:29)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+*************** error log end ***************
+

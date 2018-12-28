@@ -1,0 +1,290 @@
+[2018-12-28T13:52:56.597] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: POST
+request originalUrl:  /users/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 1
+err name: ReferenceError
+err message: params is not defined
+err stack: ReferenceError: params is not defined
+    at router.post (F:\liquidation-koa2-server\routes\users.js:31:31)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at app.use (F:\liquidation-koa2-server\app.js:30:11)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at views (F:\liquidation-koa2-server\node_modules\_koa-views@5.2.1@koa-views\lib\index.js:61:12)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at serve (F:\liquidation-koa2-server\node_modules\_koa-static@3.0.0@koa-static\index.js:47:14)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+*************** error log end ***************
+
+[2018-12-28T13:53:29.962] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: POST
+request originalUrl:  /users/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 0
+err name: ReferenceError
+err message: params is not defined
+err stack: ReferenceError: params is not defined
+    at router.post (F:\liquidation-koa2-server\routes\users.js:31:31)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at app.use (F:\liquidation-koa2-server\app.js:30:11)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at views (F:\liquidation-koa2-server\node_modules\_koa-views@5.2.1@koa-views\lib\index.js:61:12)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at serve (F:\liquidation-koa2-server\node_modules\_koa-static@3.0.0@koa-static\index.js:47:14)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+*************** error log end ***************
+
+[2018-12-28T13:53:34.357] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: POST
+request originalUrl:  /users/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 0
+err name: ReferenceError
+err message: params is not defined
+err stack: ReferenceError: params is not defined
+    at router.post (F:\liquidation-koa2-server\routes\users.js:31:31)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at app.use (F:\liquidation-koa2-server\app.js:30:11)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at views (F:\liquidation-koa2-server\node_modules\_koa-views@5.2.1@koa-views\lib\index.js:61:12)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at serve (F:\liquidation-koa2-server\node_modules\_koa-static@3.0.0@koa-static\index.js:47:14)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+*************** error log end ***************
+
+[2018-12-28T13:54:47.372] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: POST
+request originalUrl:  /users/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 3
+err name: ReferenceError
+err message: params is not defined
+err stack: ReferenceError: params is not defined
+    at router.post (F:\liquidation-koa2-server\routes\users.js:32:31)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at app.use (F:\liquidation-koa2-server\app.js:30:11)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at views (F:\liquidation-koa2-server\node_modules\_koa-views@5.2.1@koa-views\lib\index.js:61:12)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at serve (F:\liquidation-koa2-server\node_modules\_koa-static@3.0.0@koa-static\index.js:47:14)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+*************** error log end ***************
+
+[2018-12-28T13:55:33.914] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: POST
+request originalUrl:  /users/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 0
+err name: ReferenceError
+err message: params is not defined
+err stack: ReferenceError: params is not defined
+    at router.post (F:\liquidation-koa2-server\routes\users.js:32:31)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at app.use (F:\liquidation-koa2-server\app.js:30:11)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at views (F:\liquidation-koa2-server\node_modules\_koa-views@5.2.1@koa-views\lib\index.js:61:12)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at serve (F:\liquidation-koa2-server\node_modules\_koa-static@3.0.0@koa-static\index.js:47:14)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+*************** error log end ***************
+
+[2018-12-28T13:58:21.394] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: POST
+request originalUrl:  /users/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 2
+err name: ReferenceError
+err message: params is not defined
+err stack: ReferenceError: params is not defined
+    at router.post (F:\liquidation-koa2-server\routes\users.js:32:31)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at app.use (F:\liquidation-koa2-server\app.js:30:11)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at views (F:\liquidation-koa2-server\node_modules\_koa-views@5.2.1@koa-views\lib\index.js:61:12)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at serve (F:\liquidation-koa2-server\node_modules\_koa-static@3.0.0@koa-static\index.js:47:14)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+*************** error log end ***************
+
+[2018-12-28T13:58:46.923] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: POST
+request originalUrl:  /users/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 2
+err name: ReferenceError
+err message: params is not defined
+err stack: ReferenceError: params is not defined
+    at router.post (F:\liquidation-koa2-server\routes\users.js:32:31)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at app.use (F:\liquidation-koa2-server\app.js:30:11)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at views (F:\liquidation-koa2-server\node_modules\_koa-views@5.2.1@koa-views\lib\index.js:61:12)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at serve (F:\liquidation-koa2-server\node_modules\_koa-static@3.0.0@koa-static\index.js:47:14)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+*************** error log end ***************
+
+[2018-12-28T13:59:29.498] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: POST
+request originalUrl:  /users/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 2
+err name: ReferenceError
+err message: params is not defined
+err stack: ReferenceError: params is not defined
+    at router.post (F:\liquidation-koa2-server\routes\users.js:33:31)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at app.use (F:\liquidation-koa2-server\app.js:30:11)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at views (F:\liquidation-koa2-server\node_modules\_koa-views@5.2.1@koa-views\lib\index.js:61:12)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at serve (F:\liquidation-koa2-server\node_modules\_koa-static@3.0.0@koa-static\index.js:47:14)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+*************** error log end ***************
+
+[2018-12-28T13:59:52.893] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: POST
+request originalUrl:  /users/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 2
+err name: ReferenceError
+err message: params is not defined
+err stack: ReferenceError: params is not defined
+    at router.post (F:\liquidation-koa2-server\routes\users.js:32:31)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at app.use (F:\liquidation-koa2-server\app.js:30:11)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at views (F:\liquidation-koa2-server\node_modules\_koa-views@5.2.1@koa-views\lib\index.js:61:12)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at serve (F:\liquidation-koa2-server\node_modules\_koa-static@3.0.0@koa-static\index.js:47:14)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+*************** error log end ***************
+
+[2018-12-28T13:59:58.671] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: POST
+request originalUrl:  /users/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 0
+err name: ReferenceError
+err message: params is not defined
+err stack: ReferenceError: params is not defined
+    at router.post (F:\liquidation-koa2-server\routes\users.js:32:31)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at F:\liquidation-koa2-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at app.use (F:\liquidation-koa2-server\app.js:30:11)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at views (F:\liquidation-koa2-server\node_modules\_koa-views@5.2.1@koa-views\lib\index.js:61:12)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at serve (F:\liquidation-koa2-server\node_modules\_koa-static@3.0.0@koa-static\index.js:47:14)
+    at dispatch (F:\liquidation-koa2-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+*************** error log end ***************
+

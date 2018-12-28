@@ -1,0 +1,741 @@
+[2018-12-28T14:00:46.170] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/login
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"code":"001pYumj2v1B3D07xlpj25Ermj2pYumZ"}
+response time: 1
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T14:01:14.998] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/login
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"code":"0618NtUc0jE9kB1pHXRc0BcJUc08NtUl"}
+response time: 1
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T14:02:12.955] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/login
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"code":"07113TeE0ehHzk23exhE0ylTeE013TeJ"}
+response time: 1
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T14:03:24.936] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/login
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"code":"061WOWdf0lklju1MClcf0Hsfef0WOWd6"}
+response time: 2
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T14:03:29.890] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/login
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"code":"061GBWqB0qZ3Mh2HjapB0W6UqB0GBWqm"}
+response time: 0
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T14:05:21.389] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/login
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"code":"0210imca2aNeML0KBTba2LP0ca20imcU"}
+response time: 1
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T14:05:21.436] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /users/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 6
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T14:06:21.141] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/login
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"code":"081o6IW60lF4sE1S0IT60GcRW60o6IWN"}
+response time: 1
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T14:06:21.189] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /users/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 6
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T14:07:41.938] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/login
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"code":"081AxHb72MtM8S0egU872iavb72AxHbp"}
+response time: 1
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T14:07:41.960] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /users/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 5
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T14:10:34.340] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/login
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"code":"061ERzLg2DiLgJ0DoULg22FSLg2ERzLP"}
+response time: 1
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T14:10:34.402] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /users/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 48
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T14:11:31.666] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/login
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"code":"021cat4F1whzO70eqS2F1Jx44F1cat42"}
+response time: 2
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T14:11:31.734] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /users/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 54
+response status: 200
+response body: 
+[{"value":"0","label":"很垃圾","desc":"很垃圾","amount":0},{"value":"1","label":"拖欠工资","desc":"拖欠工资","amount":0},{"value":"2","label":"无偿加班","desc":"无偿加班","amount":0},{"value":"3","label":"领导很SB","desc":"领导很SB","amount":0},{"value":"4","label":"环境很恶劣","desc":"环境很恶劣","amount":0},{"value":"5","label":"没有团建","desc":"没有团建","amount":0},{"value":"6","label":"没有奖金","desc":"没有奖金","amount":0},{"value":"7","label":"没有生日P","desc":"没有生日P","amount":0},{"value":"8","label":"很积极","desc":"很积极","amount":0},{"value":"9","label":"福利很好","desc":"福利很好","amount":0},{"value":"10","label":"领导很nice","desc":"领导很nice","amount":0},{"value":"11","label":"同事相处融洽","desc":"同事相处融洽","amount":0}]
+*************** response log end ***************
+
+[2018-12-28T14:12:05.952] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/login
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"code":"011J8TGK0Hfh692ha1EK0VvEGK0J8TGq"}
+response time: 1
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T14:12:06.053] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /users/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 50
+response status: 200
+response body: 
+[{"value":"0","label":"很垃圾","desc":"很垃圾","amount":0},{"value":"1","label":"拖欠工资","desc":"拖欠工资","amount":0},{"value":"2","label":"无偿加班","desc":"无偿加班","amount":0},{"value":"3","label":"领导很SB","desc":"领导很SB","amount":0},{"value":"4","label":"环境很恶劣","desc":"环境很恶劣","amount":0},{"value":"5","label":"没有团建","desc":"没有团建","amount":0},{"value":"6","label":"没有奖金","desc":"没有奖金","amount":0},{"value":"7","label":"没有生日P","desc":"没有生日P","amount":0},{"value":"8","label":"很积极","desc":"很积极","amount":0},{"value":"9","label":"福利很好","desc":"福利很好","amount":0},{"value":"10","label":"领导很nice","desc":"领导很nice","amount":0},{"value":"11","label":"同事相处融洽","desc":"同事相处融洽","amount":0}]
+*************** response log end ***************
+
+[2018-12-28T14:22:56.905] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/login
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"code":"061dB1dW1wGOhZ0si6aW1tuRcW1dB1d-"}
+response time: 0
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T14:24:19.170] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/login
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"code":"061PbbuF1QmZW70tbRvF1fVUtF1PbbuQ"}
+response time: 1
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T14:24:19.208] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /users/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 6
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T14:25:00.584] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/login
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"code":"071fMn2n0WZbfk1y2J3n0gSn2n0fMn2q"}
+response time: 1
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T14:25:00.606] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /users/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 6
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T14:25:23.246] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/login
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"code":"001NC7PI14S5u20AvuQI1zk5PI1NC7P1"}
+response time: 1
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T14:25:23.297] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /users/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 5
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T14:26:10.006] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/login
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"code":"081PI4O82VvNoK0d1WM82FubO82PI4Of"}
+response time: 1
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T14:26:10.049] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /users/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 6
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T14:26:41.146] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/login
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"code":"021jdQrD0UXwKj2NmZnD0nyasD0jdQrf"}
+response time: 1
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T14:26:41.206] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /users/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 5
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T14:27:28.423] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/login
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"code":"081c8jI00juV2H1NWAI004pmI00c8jI4"}
+response time: 1
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T14:27:28.442] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /users/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 5
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T14:28:56.426] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/login
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"code":"011fHO5i1ywwiu0gOc5i1YPT5i1fHO5J"}
+response time: 1
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T14:28:56.460] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /users/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 6
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T14:29:21.596] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/login
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"code":"001znYje0lGuEt1ZmHie0rZIje0znYjZ"}
+response time: 1
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T14:29:21.663] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /users/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 5
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T14:29:50.706] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/login
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"code":"011uOHtq1RbSbk055Qsq1IBLtq1uOHta"}
+response time: 1
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T14:29:50.741] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /users/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 21
+response status: 200
+response body: 
+[{"value":"0","label":"很垃圾","desc":"很垃圾","amount":0},{"value":"1","label":"拖欠工资","desc":"拖欠工资","amount":0},{"value":"2","label":"无偿加班","desc":"无偿加班","amount":0},{"value":"3","label":"领导很SB","desc":"领导很SB","amount":0},{"value":"4","label":"环境很恶劣","desc":"环境很恶劣","amount":0},{"value":"5","label":"没有团建","desc":"没有团建","amount":0},{"value":"6","label":"没有奖金","desc":"没有奖金","amount":0},{"value":"7","label":"没有生日P","desc":"没有生日P","amount":0},{"value":"8","label":"很积极","desc":"很积极","amount":0},{"value":"9","label":"福利很好","desc":"福利很好","amount":0},{"value":"10","label":"领导很nice","desc":"领导很nice","amount":0},{"value":"11","label":"同事相处融洽","desc":"同事相处融洽","amount":0}]
+*************** response log end ***************
+
+[2018-12-28T14:30:17.184] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/login
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"code":"0212P17o0ruLZk1PP34o0N9h7o02P17Y"}
+response time: 1
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T14:30:17.212] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /users/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 5
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T14:31:18.714] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/login
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"code":"011apa0I0hqdxf2lVv1I07SUZH0apa0E"}
+response time: 1
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T14:31:18.815] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /users/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 50
+response status: 200
+response body: 
+{"code":0,"msg":"","data":[{"value":"0","label":"很垃圾","desc":"很垃圾","amount":0},{"value":"1","label":"拖欠工资","desc":"拖欠工资","amount":0},{"value":"2","label":"无偿加班","desc":"无偿加班","amount":0},{"value":"3","label":"领导很SB","desc":"领导很SB","amount":0},{"value":"4","label":"环境很恶劣","desc":"环境很恶劣","amount":0},{"value":"5","label":"没有团建","desc":"没有团建","amount":0},{"value":"6","label":"没有奖金","desc":"没有奖金","amount":0},{"value":"7","label":"没有生日P","desc":"没有生日P","amount":0},{"value":"8","label":"很积极","desc":"很积极","amount":0},{"value":"9","label":"福利很好","desc":"福利很好","amount":0},{"value":"10","label":"领导很nice","desc":"领导很nice","amount":0},{"value":"11","label":"同事相处融洽","desc":"同事相处融洽","amount":0}],"result":true}
+*************** response log end ***************
+
+[2018-12-28T14:48:48.729] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/login
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"code":"021BU1cu1y6vRe0zcveu1vVecu1BU1cm"}
+response time: 0
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T14:49:40.986] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/login
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"code":"081STNV72ppfwJ04fEX72hfTV72STNVU"}
+response time: 1
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T14:50:21.936] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/login
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"code":"081erldg2GbIGI0Cv1bg2rTqdg2erldL"}
+response time: 0
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T14:50:22.039] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 0
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T14:51:03.463] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/login
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"code":"07158SpT03cnFZ1C9KoT0C7IpT058Spj"}
+response time: 1
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T14:51:03.533] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 18
+response status: 200
+response body: 
+{"code":0,"msg":"请求成功","result":true,"data":[{"value":"0","label":"很垃圾","desc":"很垃圾","amount":0},{"value":"1","label":"拖欠工资","desc":"拖欠工资","amount":0},{"value":"2","label":"无偿加班","desc":"无偿加班","amount":0},{"value":"3","label":"领导很SB","desc":"领导很SB","amount":0},{"value":"4","label":"环境很恶劣","desc":"环境很恶劣","amount":0},{"value":"5","label":"没有团建","desc":"没有团建","amount":0},{"value":"6","label":"没有奖金","desc":"没有奖金","amount":0},{"value":"7","label":"没有生日P","desc":"没有生日P","amount":0},{"value":"8","label":"很积极","desc":"很积极","amount":0},{"value":"9","label":"福利很好","desc":"福利很好","amount":0},{"value":"10","label":"领导很nice","desc":"领导很nice","amount":0},{"value":"11","label":"同事相处融洽","desc":"同事相处融洽","amount":0}]}
+*************** response log end ***************
+
+[2018-12-28T14:51:11.477] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/getRankingList
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 0
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T14:51:11.509] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/getRankingList
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 0
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T14:51:24.580] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/login
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"code":"001F0xjJ1uYjZ201DZiJ1drJjJ1F0xjU"}
+response time: 0
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T14:51:24.645] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 3
+response status: 200
+response body: 
+{"code":0,"msg":"请求成功","result":true,"data":[{"value":"0","label":"很垃圾","desc":"很垃圾","amount":0},{"value":"1","label":"拖欠工资","desc":"拖欠工资","amount":0},{"value":"2","label":"无偿加班","desc":"无偿加班","amount":0},{"value":"3","label":"领导很SB","desc":"领导很SB","amount":0},{"value":"4","label":"环境很恶劣","desc":"环境很恶劣","amount":0},{"value":"5","label":"没有团建","desc":"没有团建","amount":0},{"value":"6","label":"没有奖金","desc":"没有奖金","amount":0},{"value":"7","label":"没有生日P","desc":"没有生日P","amount":0},{"value":"8","label":"很积极","desc":"很积极","amount":0},{"value":"9","label":"福利很好","desc":"福利很好","amount":0},{"value":"10","label":"领导很nice","desc":"领导很nice","amount":0},{"value":"11","label":"同事相处融洽","desc":"同事相处融洽","amount":0}]}
+*************** response log end ***************
+
+[2018-12-28T14:51:26.164] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/getRankingList
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 33
+response status: 200
+response body: 
+{"code":0,"msg":"请求成功","result":true,"data":[{"id":27,"name":"womende我们的","number":0,"region":"阿萨达","isGoOut":"4","hopeGoOut":"2","existence":"0","diss":"[0,2]","talk":"在小城之春","star":39},{"id":29,"name":"撒旦法","number":0,"region":"zxcz中兄次之","isGoOut":"4","hopeGoOut":"2","existence":"0","diss":"[0]","talk":"","star":2},{"id":28,"name":"dasd大声道","number":0,"region":"asdasdas阿斯达十大","isGoOut":"4","hopeGoOut":"2","existence":"0","diss":"[0]","talk":"","star":1}]}
+*************** response log end ***************
+
+[2018-12-28T14:51:26.407] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/getRankingList
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 2
+response status: 200
+response body: 
+{"code":0,"msg":"请求成功","result":true,"data":[{"id":27,"name":"womende我们的","number":0,"region":"阿萨达","isGoOut":"4","hopeGoOut":"2","existence":"0","diss":"[0,2]","talk":"在小城之春","star":39},{"id":29,"name":"撒旦法","number":0,"region":"zxcz中兄次之","isGoOut":"4","hopeGoOut":"2","existence":"0","diss":"[0]","talk":"","star":2},{"id":28,"name":"dasd大声道","number":0,"region":"asdasdas阿斯达十大","isGoOut":"4","hopeGoOut":"2","existence":"0","diss":"[0]","talk":"","star":1}]}
+*************** response log end ***************
+
+[2018-12-28T14:52:41.701] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/addCompany
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"name":"大","number":0,"region":"阿斯达","isGoOut":0,"hopeGoOut":2,"existence":0,"diss":"[0,1]","talk":"","star":0}
+response time: 1
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T14:53:04.276] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/login
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"code":"001WHmxj0RVZup1qK4xj0J5jxj0WHmxf"}
+response time: 1
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T14:53:04.386] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 22
+response status: 200
+response body: 
+{"code":0,"msg":"请求成功","result":true,"data":[{"value":"0","label":"很垃圾","desc":"很垃圾","amount":0},{"value":"1","label":"拖欠工资","desc":"拖欠工资","amount":0},{"value":"2","label":"无偿加班","desc":"无偿加班","amount":0},{"value":"3","label":"领导很SB","desc":"领导很SB","amount":0},{"value":"4","label":"环境很恶劣","desc":"环境很恶劣","amount":0},{"value":"5","label":"没有团建","desc":"没有团建","amount":0},{"value":"6","label":"没有奖金","desc":"没有奖金","amount":0},{"value":"7","label":"没有生日P","desc":"没有生日P","amount":0},{"value":"8","label":"很积极","desc":"很积极","amount":0},{"value":"9","label":"福利很好","desc":"福利很好","amount":0},{"value":"10","label":"领导很nice","desc":"领导很nice","amount":0},{"value":"11","label":"同事相处融洽","desc":"同事相处融洽","amount":0}]}
+*************** response log end ***************
+
+[2018-12-28T14:56:04.832] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/login
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{"code":"021fkWXb1k2KVw03U40c1z6DXb1fkWXE"}
+response time: 1
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-12-28T14:56:04.882] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /company/getDissSelect
+request client ip:  ::ffff:172.16.3.249
+request body: 
+{}
+response time: 23
+response status: 200
+response body: 
+{"code":0,"msg":"请求成功","result":true,"data":[{"value":"0","label":"很垃圾","desc":"很垃圾","amount":0},{"value":"1","label":"拖欠工资","desc":"拖欠工资","amount":0},{"value":"2","label":"无偿加班","desc":"无偿加班","amount":0},{"value":"3","label":"领导很SB","desc":"领导很SB","amount":0},{"value":"4","label":"环境很恶劣","desc":"环境很恶劣","amount":0},{"value":"5","label":"没有团建","desc":"没有团建","amount":0},{"value":"6","label":"没有奖金","desc":"没有奖金","amount":0},{"value":"7","label":"没有生日P","desc":"没有生日P","amount":0},{"value":"8","label":"很积极","desc":"很积极","amount":0},{"value":"9","label":"福利很好","desc":"福利很好","amount":0},{"value":"10","label":"领导很nice","desc":"领导很nice","amount":0},{"value":"11","label":"同事相处融洽","desc":"同事相处融洽","amount":0}]}
+*************** response log end ***************
+
