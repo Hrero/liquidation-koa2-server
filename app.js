@@ -4,12 +4,8 @@ const views = require('koa-views')
 const json = require('koa-json')
 const onerror = require('koa-onerror')
 const bodyparser = require('koa-bodyparser')
-
-const index = require('./routes/index')
-const users = require('./routes/users')
-const company = require('./routes/company')
 const logUtil = require("./config/log");
-
+const router = require('./routes');
 // error handler
 onerror(app)
 
@@ -36,14 +32,9 @@ app.use(async (ctx, next) => {
     logUtil.logError(ctx, error, ms); // 记录异常日志
   }
 });
-// routes
-app.use(index.routes(), index.allowedMethods())
-app.use(users.routes(), users.allowedMethods())
-app.use(company.routes(), company.allowedMethods())
-
 // error-handling
 app.on('error', (err, ctx) => {
   console.error('server error', err, ctx)
 });
-
+router(app);
 module.exports = app

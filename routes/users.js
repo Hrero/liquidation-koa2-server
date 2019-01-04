@@ -4,11 +4,12 @@ const request = require('request'); // 处理node request请求
 const jwt = require('jsonwebtoken') // 生成签名token
 const allServices = require('../controllers/mysql') // 生成签名token
 const user = require('../controllers/store/user') // 生成签名token
-let responseData = {
-    code:0,
-    msg: '请求失败',
-    result: false,
-    data: ''
+function resData(obj) {
+    obj.code = obj.code || 0
+    obj.msg = obj.msg || '请求失败'
+    obj.result = obj.result || false
+    obj.data = obj.data || ''
+    return obj
 }
 let isTokenFn = function(openid) {
     return new Promise((resolve, reject) => {
@@ -62,17 +63,10 @@ router.post('/login', async (ctx, next) => {
                 }
                 let addUser = await allServices(user.addUserData(sqlObj))
                 if (addUser) {
-                    responseData.data = {openid: content.openid}
-                    responseData.msg = '登录成功'
-                    responseData.result = true
-                    ctx.body = responseData
+                    ctx.body = resData({result: true, msg: '登录成功', data: {openid: content.openid}})
                     next()
                 } else {
-                    responseData.data = ''
-                    responseData.msg = '登录失败'
-                    responseData.result = false
-                    responseData.code = 0
-                    ctx.body = responseData
+                    ctx.body = resData({msg: '登录失败'})
                     next()
                 }
             } else {
@@ -82,19 +76,13 @@ router.post('/login', async (ctx, next) => {
                 }
                 let updataUser = await allServices(user.updataUserIdSql(obj))
                 if (updataUser) {
-                    responseData.data = {openid: content.openid}
-                    responseData.msg = '更新成功'
-                    responseData.result = true
-                    ctx.body = responseData
+                    ctx.body = resData({msg: '更新成功', data: {openid: content.openid}, result: true})
                     next()
                 }
             }
         }
     } else {
-        responseData.data = ''
-        responseData.msg = '获取code失败'
-        responseData.result = false
-        ctx.body = responseData
+        ctx.body = resData({msg: '获取code失败'})
         next()
     }
 })
